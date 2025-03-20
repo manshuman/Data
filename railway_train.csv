@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,Companions,Family,Ticket,Fare,Station,Coach
+1,0,3,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,1749.45,New Delhi Junction (NDLS),3AC
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,5940.86,Mumbai Central (BCT),1AC
+3,1,3,"Heikkinen, Miss. Laina",female,26.0,0,0,STON/O2. 3101282,2178.39,New Delhi Junction (NDLS),3AC
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,5518.39,New Delhi Junction (NDLS),1AC
+5,0,3,"Allen, Mr. William Henry",male,35.0,0,0,373450,1487.22,New Delhi Junction (NDLS),3AC
+6,0,3,"Moran, Mr. James",male,,0,0,330877,1487.19,Chennai Central (MAS),3AC
+7,0,1,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,4869.7,New Delhi Junction (NDLS),1AC
+8,0,3,"Palsson, Master. Gosta Leonard",male,2.0,3,1,349909,2339.41,New Delhi Junction (NDLS),3AC
+9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,347742,2021.34,New Delhi Junction (NDLS),3AC
+10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,237736,3620.49,Mumbai Central (BCT),2AC
+11,1,3,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,1324.7,New Delhi Junction (NDLS),3AC
+12,1,1,"Bonnell, Miss. Elizabeth",female,58.0,0,0,113783,5963.89,New Delhi Junction (NDLS),1AC
+13,0,3,"Saundercock, Mr. William Henry",male,20.0,0,0,A/5. 2151,2298.93,New Delhi Junction (NDLS),3AC
+14,0,3,"Andersson, Mr. Anders Johan",male,39.0,1,5,347082,1554.81,New Delhi Junction (NDLS),3AC
+15,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,350406,1518.19,New Delhi Junction (NDLS),3AC
+16,1,2,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,248706,2938.43,New Delhi Junction (NDLS),2AC
+17,0,3,"Rice, Master. Eugene",male,2.0,4,1,382652,1665.09,Chennai Central (MAS),3AC
+18,1,2,"Williams, Mr. Charles Eugene",male,,0,0,244373,3382.18,New Delhi Junction (NDLS),2AC
+19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,345763,1818.33,New Delhi Junction (NDLS),3AC
+20,1,3,"Masselmani, Mrs. Fatima",female,,0,0,2649,1649.47,Mumbai Central (BCT),3AC
+21,0,2,"Fynney, Mr. Joseph J",male,35.0,0,0,239865,3495.41,New Delhi Junction (NDLS),2AC
+22,1,2,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,2881.34,New Delhi Junction (NDLS),2AC
+23,1,3,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,1650.57,Chennai Central (MAS),3AC
+24,1,1,"Sloper, Mr. William Thompson",male,28.0,0,0,113788,5239.63,New Delhi Junction (NDLS),1AC
+25,0,3,"Palsson, Miss. Torborg Danira",female,8.0,3,1,349909,1847.28,New Delhi Junction (NDLS),3AC
+26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,2242.21,New Delhi Junction (NDLS),3AC
+27,0,3,"Emir, Mr. Farred Chehab",male,,0,0,2631,1539.61,Mumbai Central (BCT),3AC
+28,0,1,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,5417.08,New Delhi Junction (NDLS),1AC
+29,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,,0,0,330959,2010.9,Chennai Central (MAS),3AC
+30,0,3,"Todoroff, Mr. Lalio",male,,0,0,349216,1355.74,New Delhi Junction (NDLS),3AC
+31,0,1,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,5529.05,Mumbai Central (BCT),1AC
+32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,1,0,PC 17569,5004.63,Mumbai Central (BCT),1AC
+33,1,3,"Glynn, Miss. Mary Agatha",female,,0,0,335677,1378.06,Chennai Central (MAS),3AC
+34,0,2,"Wheadon, Mr. Edward H",male,66.0,0,0,C.A. 24579,3933.55,New Delhi Junction (NDLS),2AC
+35,0,1,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,PC 17604,5958.76,Mumbai Central (BCT),1AC
+36,0,1,"Holverson, Mr. Alexander Oskar",male,42.0,1,0,113789,5770.08,New Delhi Junction (NDLS),1AC
+37,1,3,"Mamee, Mr. Hanna",male,,0,0,2677,1665.54,Mumbai Central (BCT),3AC
+38,0,3,"Cann, Mr. Ernest Charles",male,21.0,0,0,A./5. 2152,1417.21,New Delhi Junction (NDLS),3AC
+39,0,3,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,345764,2121.08,New Delhi Junction (NDLS),3AC
+40,1,3,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,1828.18,Mumbai Central (BCT),3AC
+41,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,1446.45,New Delhi Junction (NDLS),3AC
+42,0,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,11668,3343.73,New Delhi Junction (NDLS),2AC
+43,0,3,"Kraeff, Mr. Theodor",male,,0,0,349253,1341.27,Mumbai Central (BCT),3AC
+44,1,2,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,3882.12,Mumbai Central (BCT),2AC
+45,1,3,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,1610.54,Chennai Central (MAS),3AC
+46,0,3,"Rogers, Mr. William John",male,,0,0,S.C./A.4. 23567,2095.03,New Delhi Junction (NDLS),3AC
+47,0,3,"Lennon, Mr. Denis",male,,1,0,370371,1674.05,Chennai Central (MAS),3AC
+48,1,3,"O'Driscoll, Miss. Bridget",female,,0,0,14311,1924.08,Chennai Central (MAS),3AC
+49,0,3,"Samaan, Mr. Youssef",male,,2,0,2662,1956.05,Mumbai Central (BCT),3AC
+50,0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,349237,1521.83,New Delhi Junction (NDLS),3AC
+51,0,3,"Panula, Master. Juha Niilo",male,7.0,4,1,3101295,2463.5,New Delhi Junction (NDLS),3AC
+52,0,3,"Nosworthy, Mr. Richard Cater",male,21.0,0,0,A/4. 39886,2230.16,New Delhi Junction (NDLS),3AC
+53,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,5927.4,Mumbai Central (BCT),1AC
+54,1,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,2926,3863.28,New Delhi Junction (NDLS),2AC
+55,0,1,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,113509,5517.48,Mumbai Central (BCT),1AC
+56,1,1,"Woolner, Mr. Hugh",male,,0,0,19947,5906.25,New Delhi Junction (NDLS),1AC
+57,1,2,"Rugg, Miss. Emily",female,21.0,0,0,C.A. 31026,2815.04,New Delhi Junction (NDLS),2AC
+58,0,3,"Novel, Mr. Mansouer",male,28.5,0,0,2697,1535.18,Mumbai Central (BCT),3AC
+59,1,2,"West, Miss. Constance Mirium",female,5.0,1,2,C.A. 34651,2758.8,New Delhi Junction (NDLS),2AC
+60,0,3,"Goodwin, Master. William Frederick",male,11.0,5,2,CA 2144,1690.4,New Delhi Junction (NDLS),3AC
+61,0,3,"Sirayanian, Mr. Orsen",male,22.0,0,0,2669,1766.41,Mumbai Central (BCT),3AC
+62,1,1,"Icard, Miss. Amelie",female,38.0,0,0,113572,5125.62,,1AC
+63,0,1,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,36973,5794.49,New Delhi Junction (NDLS),1AC
+64,0,3,"Skoog, Master. Harald",male,4.0,3,2,347088,1728.1,New Delhi Junction (NDLS),3AC
+65,0,1,"Stewart, Mr. Albert A",male,,0,0,PC 17605,5137.12,Mumbai Central (BCT),1AC
+66,1,3,"Moubarek, Master. Gerios",male,,1,1,2661,1951.24,Mumbai Central (BCT),3AC
+67,1,2,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,C.A. 29395,2883.2,New Delhi Junction (NDLS),2AC
+68,0,3,"Crease, Mr. Ernest James",male,19.0,0,0,S.P. 3464,2262.64,New Delhi Junction (NDLS),3AC
+69,1,3,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,3101281,1389.46,New Delhi Junction (NDLS),3AC
+70,0,3,"Kink, Mr. Vincenz",male,26.0,2,0,315151,2484.26,New Delhi Junction (NDLS),3AC
+71,0,2,"Jenkin, Mr. Stephen Curnow",male,32.0,0,0,C.A. 33111,3703.92,New Delhi Junction (NDLS),2AC
+72,0,3,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,CA 2144,1538.46,New Delhi Junction (NDLS),3AC
+73,0,2,"Hood, Mr. Ambrose Jr",male,21.0,0,0,S.O.C. 14879,2707.18,New Delhi Junction (NDLS),2AC
+74,0,3,"Chronopoulos, Mr. Apostolos",male,26.0,1,0,2680,2278.55,Mumbai Central (BCT),3AC
+75,1,3,"Bing, Mr. Lee",male,32.0,0,0,1601,2148.23,New Delhi Junction (NDLS),3AC
+76,0,3,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,348123,2174.81,New Delhi Junction (NDLS),3AC
+77,0,3,"Staneff, Mr. Ivan",male,,0,0,349208,2225.52,New Delhi Junction (NDLS),3AC
+78,0,3,"Moutal, Mr. Rahamin Haim",male,,0,0,374746,1388.85,New Delhi Junction (NDLS),3AC
+79,1,2,"Caldwell, Master. Alden Gates",male,0.83,0,2,248738,3166.01,New Delhi Junction (NDLS),2AC
+80,1,3,"Dowdell, Miss. Elizabeth",female,30.0,0,0,364516,1439.04,New Delhi Junction (NDLS),3AC
+81,0,3,"Waelens, Mr. Achille",male,22.0,0,0,345767,2335.72,New Delhi Junction (NDLS),3AC
+82,1,3,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,0,345779,2047.96,New Delhi Junction (NDLS),3AC
+83,1,3,"McDermott, Miss. Brigdet Delia",female,,0,0,330932,1697.08,Chennai Central (MAS),3AC
+84,0,1,"Carrau, Mr. Francisco M",male,28.0,0,0,113059,4876.27,New Delhi Junction (NDLS),1AC
+85,1,2,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,3104.28,New Delhi Junction (NDLS),2AC
+86,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,3101278,1690.22,New Delhi Junction (NDLS),3AC
+87,0,3,"Ford, Mr. William Neal",male,16.0,1,3,W./C. 6608,2175.53,New Delhi Junction (NDLS),3AC
+88,0,3,"Slocovski, Mr. Selman Francis",male,,0,0,SOTON/OQ 392086,2065.07,New Delhi Junction (NDLS),3AC
+89,1,1,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,5864.66,New Delhi Junction (NDLS),1AC
+90,0,3,"Celotti, Mr. Francesco",male,24.0,0,0,343275,1866.66,New Delhi Junction (NDLS),3AC
+91,0,3,"Christmann, Mr. Emil",male,29.0,0,0,343276,1443.51,New Delhi Junction (NDLS),3AC
+92,0,3,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,347466,2155.89,New Delhi Junction (NDLS),3AC
+93,0,1,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,5712.94,New Delhi Junction (NDLS),1AC
+94,0,3,"Dean, Mr. Bertram Frank",male,26.0,1,2,C.A. 2315,1973.53,New Delhi Junction (NDLS),3AC
+95,0,3,"Coxon, Mr. Daniel",male,59.0,0,0,364500,2225.16,New Delhi Junction (NDLS),3AC
+96,0,3,"Shorney, Mr. Charles Joseph",male,,0,0,374910,1892.55,New Delhi Junction (NDLS),3AC
+97,0,1,"Goldschmidt, Mr. George B",male,71.0,0,0,PC 17754,5427.28,Mumbai Central (BCT),1AC
+98,1,1,"Greenfield, Mr. William Bertram",male,23.0,0,1,PC 17759,5313.05,Mumbai Central (BCT),1AC
+99,1,2,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,231919,2733.04,New Delhi Junction (NDLS),2AC
+100,0,2,"Kantor, Mr. Sinai",male,34.0,1,0,244367,2840.26,New Delhi Junction (NDLS),2AC
+101,0,3,"Petranec, Miss. Matilda",female,28.0,0,0,349245,1337.72,New Delhi Junction (NDLS),3AC
+102,0,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,,0,0,349215,2063.69,New Delhi Junction (NDLS),3AC
+103,0,1,"White, Mr. Richard Frasar",male,21.0,0,1,35281,5177.23,New Delhi Junction (NDLS),1AC
+104,0,3,"Johansson, Mr. Gustaf Joel",male,33.0,0,0,7540,1910.28,New Delhi Junction (NDLS),3AC
+105,0,3,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2,0,3101276,2389.08,New Delhi Junction (NDLS),3AC
+106,0,3,"Mionoff, Mr. Stoytcho",male,28.0,0,0,349207,1599.15,New Delhi Junction (NDLS),3AC
+107,1,3,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,343120,1792.46,New Delhi Junction (NDLS),3AC
+108,1,3,"Moss, Mr. Albert Johan",male,,0,0,312991,2206.66,New Delhi Junction (NDLS),3AC
+109,0,3,"Rekic, Mr. Tido",male,38.0,0,0,349249,1574.56,New Delhi Junction (NDLS),3AC
+110,1,3,"Moran, Miss. Bertha",female,,1,0,371110,1392.38,Chennai Central (MAS),3AC
+111,0,1,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,110465,5147.7,New Delhi Junction (NDLS),1AC
+112,0,3,"Zabour, Miss. Hileni",female,14.5,1,0,2665,1493.47,Mumbai Central (BCT),3AC
+113,0,3,"Barton, Mr. David John",male,22.0,0,0,324669,2415.64,New Delhi Junction (NDLS),3AC
+114,0,3,"Jussila, Miss. Katriina",female,20.0,1,0,4136,2269.74,New Delhi Junction (NDLS),3AC
+115,0,3,"Attalah, Miss. Malake",female,17.0,0,0,2627,2060.08,Mumbai Central (BCT),3AC
+116,0,3,"Pekoniemi, Mr. Edvard",male,21.0,0,0,STON/O 2. 3101294,2345.75,New Delhi Junction (NDLS),3AC
+117,0,3,"Connors, Mr. Patrick",male,70.5,0,0,370369,2264.41,Chennai Central (MAS),3AC
+118,0,2,"Turpin, Mr. William John Robert",male,29.0,1,0,11668,2942.54,New Delhi Junction (NDLS),2AC
+119,0,1,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,5871.07,Mumbai Central (BCT),1AC
+120,0,3,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,2,347082,1947.21,New Delhi Junction (NDLS),3AC
+121,0,2,"Hickman, Mr. Stanley George",male,21.0,2,0,S.O.C. 14879,3749.67,New Delhi Junction (NDLS),2AC
+122,0,3,"Moore, Mr. Leonard Charles",male,,0,0,A4. 54510,2375.31,New Delhi Junction (NDLS),3AC
+123,0,2,"Nasser, Mr. Nicholas",male,32.5,1,0,237736,3113.4,Mumbai Central (BCT),2AC
+124,1,2,"Webber, Miss. Susan",female,32.5,0,0,27267,2843.07,New Delhi Junction (NDLS),2AC
+125,0,1,"White, Mr. Percival Wayland",male,54.0,0,1,35281,5073.52,New Delhi Junction (NDLS),1AC
+126,1,3,"Nicola-Yarred, Master. Elias",male,12.0,1,0,2651,1812.53,Mumbai Central (BCT),3AC
+127,0,3,"McMahon, Mr. Martin",male,,0,0,370372,2281.62,Chennai Central (MAS),3AC
+128,1,3,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,C 17369,2332.88,New Delhi Junction (NDLS),3AC
+129,1,3,"Peter, Miss. Anna",female,,1,1,2668,1308.34,Mumbai Central (BCT),3AC
+130,0,3,"Ekstrom, Mr. Johan",male,45.0,0,0,347061,1912.9,New Delhi Junction (NDLS),3AC
+131,0,3,"Drazenoic, Mr. Jozef",male,33.0,0,0,349241,1800.89,Mumbai Central (BCT),3AC
+132,0,3,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,0,SOTON/O.Q. 3101307,1566.53,New Delhi Junction (NDLS),3AC
+133,0,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,0,A/5. 3337,1443.84,New Delhi Junction (NDLS),3AC
+134,1,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,228414,3138.9,New Delhi Junction (NDLS),2AC
+135,0,2,"Sobey, Mr. Samuel James Hayden",male,25.0,0,0,C.A. 29178,3925.78,New Delhi Junction (NDLS),2AC
+136,0,2,"Richard, Mr. Emile",male,23.0,0,0,SC/PARIS 2133,3120.16,Mumbai Central (BCT),2AC
+137,1,1,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,11752,5422.55,New Delhi Junction (NDLS),1AC
+138,0,1,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,113803,5643.62,New Delhi Junction (NDLS),1AC
+139,0,3,"Osen, Mr. Olaf Elon",male,16.0,0,0,7534,1736.36,New Delhi Junction (NDLS),3AC
+140,0,1,"Giglio, Mr. Victor",male,24.0,0,0,PC 17593,5966.14,Mumbai Central (BCT),1AC
+141,0,3,"Boulos, Mrs. Joseph (Sultana)",female,,0,2,2678,2454.94,Mumbai Central (BCT),3AC
+142,1,3,"Nysten, Miss. Anna Sofia",female,22.0,0,0,347081,1602.14,New Delhi Junction (NDLS),3AC
+143,1,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,STON/O2. 3101279,1896.7,New Delhi Junction (NDLS),3AC
+144,0,3,"Burke, Mr. Jeremiah",male,19.0,0,0,365222,1661.05,Chennai Central (MAS),3AC
+145,0,2,"Andrew, Mr. Edgardo Samuel",male,18.0,0,0,231945,3070.29,New Delhi Junction (NDLS),2AC
+146,0,2,"Nicholls, Mr. Joseph Charles",male,19.0,1,1,C.A. 33112,2747.95,New Delhi Junction (NDLS),2AC
+147,1,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,0,350043,2031.48,New Delhi Junction (NDLS),3AC
+148,0,3,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,W./C. 6608,1903.21,New Delhi Junction (NDLS),3AC
+149,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,2766.92,New Delhi Junction (NDLS),2AC
+150,0,2,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,244310,3062.24,New Delhi Junction (NDLS),2AC
+151,0,2,"Bateman, Rev. Robert James",male,51.0,0,0,S.O.P. 1166,3880.75,New Delhi Junction (NDLS),2AC
+152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,5087.47,New Delhi Junction (NDLS),1AC
+153,0,3,"Meo, Mr. Alfonzo",male,55.5,0,0,A.5. 11206,1473.87,New Delhi Junction (NDLS),3AC
+154,0,3,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,1887.34,New Delhi Junction (NDLS),3AC
+155,0,3,"Olsen, Mr. Ole Martin",male,,0,0,Fa 265302,2482.78,New Delhi Junction (NDLS),3AC
+156,0,1,"Williams, Mr. Charles Duane",male,51.0,0,1,PC 17597,5090.47,Mumbai Central (BCT),1AC
+157,1,3,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,35851,2106.56,Chennai Central (MAS),3AC
+158,0,3,"Corn, Mr. Harry",male,30.0,0,0,SOTON/OQ 392090,2213.94,New Delhi Junction (NDLS),3AC
+159,0,3,"Smiljanic, Mr. Mile",male,,0,0,315037,1585.17,New Delhi Junction (NDLS),3AC
+160,0,3,"Sage, Master. Thomas Henry",male,,8,2,CA. 2343,2173.86,New Delhi Junction (NDLS),3AC
+161,0,3,"Cribb, Mr. John Hatfield",male,44.0,0,1,371362,1741.34,New Delhi Junction (NDLS),3AC
+162,1,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,0,C.A. 33595,3522.0,New Delhi Junction (NDLS),2AC
+163,0,3,"Bengtsson, Mr. John Viktor",male,26.0,0,0,347068,2060.24,New Delhi Junction (NDLS),3AC
+164,0,3,"Calic, Mr. Jovo",male,17.0,0,0,315093,1942.93,New Delhi Junction (NDLS),3AC
+165,0,3,"Panula, Master. Eino Viljami",male,1.0,4,1,3101295,1408.35,New Delhi Junction (NDLS),3AC
+166,1,3,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,363291,2302.36,New Delhi Junction (NDLS),3AC
+167,1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,,0,1,113505,5184.94,New Delhi Junction (NDLS),1AC
+168,0,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1,4,347088,1523.82,New Delhi Junction (NDLS),3AC
+169,0,1,"Baumann, Mr. John D",male,,0,0,PC 17318,4848.93,New Delhi Junction (NDLS),1AC
+170,0,3,"Ling, Mr. Lee",male,28.0,0,0,1601,2009.07,New Delhi Junction (NDLS),3AC
+171,0,1,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,111240,5613.08,New Delhi Junction (NDLS),1AC
+172,0,3,"Rice, Master. Arthur",male,4.0,4,1,382652,1319.91,Chennai Central (MAS),3AC
+173,1,3,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,347742,1914.51,New Delhi Junction (NDLS),3AC
+174,0,3,"Sivola, Mr. Antti Wilhelm",male,21.0,0,0,STON/O 2. 3101280,1571.79,New Delhi Junction (NDLS),3AC
+175,0,1,"Smith, Mr. James Clinch",male,56.0,0,0,17764,5574.21,Mumbai Central (BCT),1AC
+176,0,3,"Klasen, Mr. Klas Albin",male,18.0,1,1,350404,1509.24,New Delhi Junction (NDLS),3AC
+177,0,3,"Lefebre, Master. Henry Forbes",male,,3,1,4133,2129.13,New Delhi Junction (NDLS),3AC
+178,0,1,"Isham, Miss. Ann Elizabeth",female,50.0,0,0,PC 17595,5264.08,Mumbai Central (BCT),1AC
+179,0,2,"Hale, Mr. Reginald",male,30.0,0,0,250653,3917.75,New Delhi Junction (NDLS),2AC
+180,0,3,"Leonard, Mr. Lionel",male,36.0,0,0,LINE,1465.03,New Delhi Junction (NDLS),3AC
+181,0,3,"Sage, Miss. Constance Gladys",female,,8,2,CA. 2343,1709.28,New Delhi Junction (NDLS),3AC
+182,0,2,"Pernot, Mr. Rene",male,,0,0,SC/PARIS 2131,2847.52,Mumbai Central (BCT),2AC
+183,0,3,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4,2,347077,2409.63,New Delhi Junction (NDLS),3AC
+184,1,2,"Becker, Master. Richard F",male,1.0,2,1,230136,3840.54,New Delhi Junction (NDLS),2AC
+185,1,3,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,315153,1609.53,New Delhi Junction (NDLS),3AC
+186,0,1,"Rood, Mr. Hugh Roscoe",male,,0,0,113767,5591.98,New Delhi Junction (NDLS),1AC
+187,1,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,1,0,370365,2280.67,Chennai Central (MAS),3AC
+188,1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,111428,5466.24,New Delhi Junction (NDLS),1AC
+189,0,3,"Bourke, Mr. John",male,40.0,1,1,364849,1935.58,Chennai Central (MAS),3AC
+190,0,3,"Turcin, Mr. Stjepan",male,36.0,0,0,349247,1590.22,New Delhi Junction (NDLS),3AC
+191,1,2,"Pinsky, Mrs. (Rosa)",female,32.0,0,0,234604,2821.03,New Delhi Junction (NDLS),2AC
+192,0,2,"Carbines, Mr. William",male,19.0,0,0,28424,3866.38,New Delhi Junction (NDLS),2AC
+193,1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,0,350046,2380.5,New Delhi Junction (NDLS),3AC
+194,1,2,"Navratil, Master. Michel M",male,3.0,1,1,230080,3523.03,New Delhi Junction (NDLS),2AC
+195,1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,PC 17610,5206.84,Mumbai Central (BCT),1AC
+196,1,1,"Lurette, Miss. Elise",female,58.0,0,0,PC 17569,5219.05,Mumbai Central (BCT),1AC
+197,0,3,"Mernagh, Mr. Robert",male,,0,0,368703,2171.15,Chennai Central (MAS),3AC
+198,0,3,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,1,4579,2376.53,New Delhi Junction (NDLS),3AC
+199,1,3,"Madigan, Miss. Margaret ""Maggie""",female,,0,0,370370,2364.5,Chennai Central (MAS),3AC
+200,0,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,248747,3713.84,New Delhi Junction (NDLS),2AC
+201,0,3,"Vande Walle, Mr. Nestor Cyriel",male,28.0,0,0,345770,2070.44,New Delhi Junction (NDLS),3AC
+202,0,3,"Sage, Mr. Frederick",male,,8,2,CA. 2343,1400.97,New Delhi Junction (NDLS),3AC
+203,0,3,"Johanson, Mr. Jakob Alfred",male,34.0,0,0,3101264,1493.95,New Delhi Junction (NDLS),3AC
+204,0,3,"Youseff, Mr. Gerious",male,45.5,0,0,2628,2378.27,Mumbai Central (BCT),3AC
+205,1,3,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,A/5 3540,2027.71,New Delhi Junction (NDLS),3AC
+206,0,3,"Strom, Miss. Telma Matilda",female,2.0,0,1,347054,1311.04,New Delhi Junction (NDLS),3AC
+207,0,3,"Backstrom, Mr. Karl Alfred",male,32.0,1,0,3101278,1421.77,New Delhi Junction (NDLS),3AC
+208,1,3,"Albimona, Mr. Nassef Cassem",male,26.0,0,0,2699,2096.2,Mumbai Central (BCT),3AC
+209,1,3,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,367231,1306.07,Chennai Central (MAS),3AC
+210,1,1,"Blank, Mr. Henry",male,40.0,0,0,112277,4992.97,Mumbai Central (BCT),1AC
+211,0,3,"Ali, Mr. Ahmed",male,24.0,0,0,SOTON/O.Q. 3101311,1958.48,New Delhi Junction (NDLS),3AC
+212,1,2,"Cameron, Miss. Clear Annie",female,35.0,0,0,F.C.C. 13528,3599.46,New Delhi Junction (NDLS),2AC
+213,0,3,"Perkin, Mr. John Henry",male,22.0,0,0,A/5 21174,2082.35,New Delhi Junction (NDLS),3AC
+214,0,2,"Givard, Mr. Hans Kristensen",male,30.0,0,0,250646,2991.55,New Delhi Junction (NDLS),2AC
+215,0,3,"Kiernan, Mr. Philip",male,,1,0,367229,2154.62,Chennai Central (MAS),3AC
+216,1,1,"Newell, Miss. Madeleine",female,31.0,1,0,35273,5084.7,Mumbai Central (BCT),1AC
+217,1,3,"Honkanen, Miss. Eliina",female,27.0,0,0,STON/O2. 3101283,1690.48,New Delhi Junction (NDLS),3AC
+218,0,2,"Jacobsohn, Mr. Sidney Samuel",male,42.0,1,0,243847,3670.44,New Delhi Junction (NDLS),2AC
+219,1,1,"Bazzani, Miss. Albina",female,32.0,0,0,11813,5579.56,Mumbai Central (BCT),1AC
+220,0,2,"Harris, Mr. Walter",male,30.0,0,0,W/C 14208,3803.99,New Delhi Junction (NDLS),2AC
+221,1,3,"Sunderland, Mr. Victor Francis",male,16.0,0,0,SOTON/OQ 392089,2089.14,New Delhi Junction (NDLS),3AC
+222,0,2,"Bracken, Mr. James H",male,27.0,0,0,220367,3438.8,New Delhi Junction (NDLS),2AC
+223,0,3,"Green, Mr. George Henry",male,51.0,0,0,21440,1412.41,New Delhi Junction (NDLS),3AC
+224,0,3,"Nenkoff, Mr. Christo",male,,0,0,349234,1741.26,New Delhi Junction (NDLS),3AC
+225,1,1,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,19943,5118.24,New Delhi Junction (NDLS),1AC
+226,0,3,"Berglund, Mr. Karl Ivar Sven",male,22.0,0,0,PP 4348,1592.79,New Delhi Junction (NDLS),3AC
+227,1,2,"Mellors, Mr. William John",male,19.0,0,0,SW/PP 751,3964.91,New Delhi Junction (NDLS),2AC
+228,0,3,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,A/5 21173,1771.72,New Delhi Junction (NDLS),3AC
+229,0,2,"Fahlstrom, Mr. Arne Jonas",male,18.0,0,0,236171,3859.66,New Delhi Junction (NDLS),2AC
+230,0,3,"Lefebre, Miss. Mathilde",female,,3,1,4133,2057.37,New Delhi Junction (NDLS),3AC
+231,1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,36973,5753.77,New Delhi Junction (NDLS),1AC
+232,0,3,"Larsson, Mr. Bengt Edvin",male,29.0,0,0,347067,1903.16,New Delhi Junction (NDLS),3AC
+233,0,2,"Sjostedt, Mr. Ernst Adolf",male,59.0,0,0,237442,3449.98,New Delhi Junction (NDLS),2AC
+234,1,3,"Asplund, Miss. Lillian Gertrud",female,5.0,4,2,347077,1891.02,New Delhi Junction (NDLS),3AC
+235,0,2,"Leyson, Mr. Robert William Norman",male,24.0,0,0,C.A. 29566,2953.82,New Delhi Junction (NDLS),2AC
+236,0,3,"Harknett, Miss. Alice Phoebe",female,,0,0,W./C. 6609,2166.94,New Delhi Junction (NDLS),3AC
+237,0,2,"Hold, Mr. Stephen",male,44.0,1,0,26707,3065.0,New Delhi Junction (NDLS),2AC
+238,1,2,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,C.A. 31921,2731.61,New Delhi Junction (NDLS),2AC
+239,0,2,"Pengelly, Mr. Frederick William",male,19.0,0,0,28665,3539.11,New Delhi Junction (NDLS),2AC
+240,0,2,"Hunt, Mr. George Henry",male,33.0,0,0,SCO/W 1585,2930.24,New Delhi Junction (NDLS),2AC
+241,0,3,"Zabour, Miss. Thamine",female,,1,0,2665,2428.55,Mumbai Central (BCT),3AC
+242,1,3,"Murphy, Miss. Katherine ""Kate""",female,,1,0,367230,2444.71,Chennai Central (MAS),3AC
+243,0,2,"Coleridge, Mr. Reginald Charles",male,29.0,0,0,W./C. 14263,3889.32,New Delhi Junction (NDLS),2AC
+244,0,3,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0,0,STON/O 2. 3101275,1744.19,New Delhi Junction (NDLS),3AC
+245,0,3,"Attalah, Mr. Sleiman",male,30.0,0,0,2694,1318.55,Mumbai Central (BCT),3AC
+246,0,1,"Minahan, Dr. William Edward",male,44.0,2,0,19928,5913.98,Chennai Central (MAS),1AC
+247,0,3,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0,0,347071,1813.82,New Delhi Junction (NDLS),3AC
+248,1,2,"Hamalainen, Mrs. William (Anna)",female,24.0,0,2,250649,3956.65,New Delhi Junction (NDLS),2AC
+249,1,1,"Beckwith, Mr. Richard Leonard",male,37.0,1,1,11751,5956.34,New Delhi Junction (NDLS),1AC
+250,0,2,"Carter, Rev. Ernest Courtenay",male,54.0,1,0,244252,3808.91,New Delhi Junction (NDLS),2AC
+251,0,3,"Reed, Mr. James George",male,,0,0,362316,1653.34,New Delhi Junction (NDLS),3AC
+252,0,3,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1,1,347054,1762.12,New Delhi Junction (NDLS),3AC
+253,0,1,"Stead, Mr. William Thomas",male,62.0,0,0,113514,5821.36,New Delhi Junction (NDLS),1AC
+254,0,3,"Lobb, Mr. William Arthur",male,30.0,1,0,A/5. 3336,1680.31,New Delhi Junction (NDLS),3AC
+255,0,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,370129,1503.39,New Delhi Junction (NDLS),3AC
+256,1,3,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,2650,1968.16,Mumbai Central (BCT),3AC
+257,1,1,"Thorne, Mrs. Gertrude Maybelle",female,,0,0,PC 17585,5923.39,Mumbai Central (BCT),1AC
+258,1,1,"Cherry, Miss. Gladys",female,30.0,0,0,110152,5635.24,New Delhi Junction (NDLS),1AC
+259,1,1,"Ward, Miss. Anna",female,35.0,0,0,PC 17755,5484.07,Mumbai Central (BCT),1AC
+260,1,2,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,1,230433,2826.33,New Delhi Junction (NDLS),2AC
+261,0,3,"Smith, Mr. Thomas",male,,0,0,384461,2038.01,Chennai Central (MAS),3AC
+262,1,3,"Asplund, Master. Edvin Rojj Felix",male,3.0,4,2,347077,2488.06,New Delhi Junction (NDLS),3AC
+263,0,1,"Taussig, Mr. Emil",male,52.0,1,1,110413,4968.1,New Delhi Junction (NDLS),1AC
+264,0,1,"Harrison, Mr. William",male,40.0,0,0,112059,5422.0,New Delhi Junction (NDLS),1AC
+265,0,3,"Henry, Miss. Delia",female,,0,0,382649,2352.85,Chennai Central (MAS),3AC
+266,0,2,"Reeves, Mr. David",male,36.0,0,0,C.A. 17248,3663.0,New Delhi Junction (NDLS),2AC
+267,0,3,"Panula, Mr. Ernesti Arvid",male,16.0,4,1,3101295,2136.42,New Delhi Junction (NDLS),3AC
+268,1,3,"Persson, Mr. Ernst Ulrik",male,25.0,1,0,347083,2142.98,New Delhi Junction (NDLS),3AC
+269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,PC 17582,5231.39,New Delhi Junction (NDLS),1AC
+270,1,1,"Bissette, Miss. Amelia",female,35.0,0,0,PC 17760,5152.31,New Delhi Junction (NDLS),1AC
+271,0,1,"Cairns, Mr. Alexander",male,,0,0,113798,5771.23,New Delhi Junction (NDLS),1AC
+272,1,3,"Tornquist, Mr. William Henry",male,25.0,0,0,LINE,2272.14,New Delhi Junction (NDLS),3AC
+273,1,2,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,1,250644,3827.19,New Delhi Junction (NDLS),2AC
+274,0,1,"Natsch, Mr. Charles H",male,37.0,0,1,PC 17596,5895.89,Mumbai Central (BCT),1AC
+275,1,3,"Healy, Miss. Hanora ""Nora""",female,,0,0,370375,1913.61,Chennai Central (MAS),3AC
+276,1,1,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,13502,5401.82,New Delhi Junction (NDLS),1AC
+277,0,3,"Lindblom, Miss. Augusta Charlotta",female,45.0,0,0,347073,2257.95,New Delhi Junction (NDLS),3AC
+278,0,2,"Parkes, Mr. Francis ""Frank""",male,,0,0,239853,3544.95,New Delhi Junction (NDLS),2AC
+279,0,3,"Rice, Master. Eric",male,7.0,4,1,382652,2142.36,Chennai Central (MAS),3AC
+280,1,3,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,C.A. 2673,2254.95,New Delhi Junction (NDLS),3AC
+281,0,3,"Duane, Mr. Frank",male,65.0,0,0,336439,2368.01,Chennai Central (MAS),3AC
+282,0,3,"Olsson, Mr. Nils Johan Goransson",male,28.0,0,0,347464,1705.59,New Delhi Junction (NDLS),3AC
+283,0,3,"de Pelsmaeker, Mr. Alfons",male,16.0,0,0,345778,1750.7,New Delhi Junction (NDLS),3AC
+284,1,3,"Dorking, Mr. Edward Arthur",male,19.0,0,0,A/5. 10482,1412.78,New Delhi Junction (NDLS),3AC
+285,0,1,"Smith, Mr. Richard William",male,,0,0,113056,5493.94,New Delhi Junction (NDLS),1AC
+286,0,3,"Stankovic, Mr. Ivan",male,33.0,0,0,349239,1343.13,Mumbai Central (BCT),3AC
+287,1,3,"de Mulder, Mr. Theodore",male,30.0,0,0,345774,1858.72,New Delhi Junction (NDLS),3AC
+288,0,3,"Naidenoff, Mr. Penko",male,22.0,0,0,349206,1951.17,New Delhi Junction (NDLS),3AC
+289,1,2,"Hosono, Mr. Masabumi",male,42.0,0,0,237798,3072.5,New Delhi Junction (NDLS),2AC
+290,1,3,"Connolly, Miss. Kate",female,22.0,0,0,370373,2009.0,Chennai Central (MAS),3AC
+291,1,1,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,19877,4836.6,New Delhi Junction (NDLS),1AC
+292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,11967,4844.82,Mumbai Central (BCT),1AC
+293,0,2,"Levy, Mr. Rene Jacques",male,36.0,0,0,SC/Paris 2163,3769.38,Mumbai Central (BCT),2AC
+294,0,3,"Haas, Miss. Aloisia",female,24.0,0,0,349236,1732.23,New Delhi Junction (NDLS),3AC
+295,0,3,"Mineff, Mr. Ivan",male,24.0,0,0,349233,1452.47,New Delhi Junction (NDLS),3AC
+296,0,1,"Lewy, Mr. Ervin G",male,,0,0,PC 17612,5426.69,Mumbai Central (BCT),1AC
+297,0,3,"Hanna, Mr. Mansour",male,23.5,0,0,2693,2223.99,Mumbai Central (BCT),3AC
+298,0,1,"Allison, Miss. Helen Loraine",female,2.0,1,2,113781,5058.99,New Delhi Junction (NDLS),1AC
+299,1,1,"Saalfeld, Mr. Adolphe",male,,0,0,19988,5547.47,New Delhi Junction (NDLS),1AC
+300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,4902.42,Mumbai Central (BCT),1AC
+301,1,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,0,0,9234,1362.02,Chennai Central (MAS),3AC
+302,1,3,"McCoy, Mr. Bernard",male,,2,0,367226,1937.63,Chennai Central (MAS),3AC
+303,0,3,"Johnson, Mr. William Cahoone Jr",male,19.0,0,0,LINE,1948.76,New Delhi Junction (NDLS),3AC
+304,1,2,"Keane, Miss. Nora A",female,,0,0,226593,3528.66,Chennai Central (MAS),2AC
+305,0,3,"Williams, Mr. Howard Hugh ""Harry""",male,,0,0,A/5 2466,2171.31,New Delhi Junction (NDLS),3AC
+306,1,1,"Allison, Master. Hudson Trevor",male,0.92,1,2,113781,5971.02,New Delhi Junction (NDLS),1AC
+307,1,1,"Fleming, Miss. Margaret",female,,0,0,17421,5419.56,Mumbai Central (BCT),1AC
+308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,PC 17758,5187.55,Mumbai Central (BCT),1AC
+309,0,2,"Abelson, Mr. Samuel",male,30.0,1,0,P/PP 3381,3733.74,Mumbai Central (BCT),2AC
+310,1,1,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,5125.0,Mumbai Central (BCT),1AC
+311,1,1,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,11767,5326.77,Mumbai Central (BCT),1AC
+312,1,1,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,4894.15,Mumbai Central (BCT),1AC
+313,0,2,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1,1,250651,2732.96,New Delhi Junction (NDLS),2AC
+314,0,3,"Hendekovic, Mr. Ignjac",male,28.0,0,0,349243,2455.18,New Delhi Junction (NDLS),3AC
+315,0,2,"Hart, Mr. Benjamin",male,43.0,1,1,F.C.C. 13529,3786.77,New Delhi Junction (NDLS),2AC
+316,1,3,"Nilsson, Miss. Helmina Josefina",female,26.0,0,0,347470,2135.17,New Delhi Junction (NDLS),3AC
+317,1,2,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,244367,3231.64,New Delhi Junction (NDLS),2AC
+318,0,2,"Moraweck, Dr. Ernest",male,54.0,0,0,29011,2925.28,New Delhi Junction (NDLS),2AC
+319,1,1,"Wick, Miss. Mary Natalie",female,31.0,0,2,36928,4987.72,New Delhi Junction (NDLS),1AC
+320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,16966,5100.29,Mumbai Central (BCT),1AC
+321,0,3,"Dennis, Mr. Samuel",male,22.0,0,0,A/5 21172,1959.07,New Delhi Junction (NDLS),3AC
+322,0,3,"Danoff, Mr. Yoto",male,27.0,0,0,349219,2157.52,New Delhi Junction (NDLS),3AC
+323,1,2,"Slayter, Miss. Hilda Mary",female,30.0,0,0,234818,3558.26,Chennai Central (MAS),2AC
+324,1,2,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,1,248738,3063.91,New Delhi Junction (NDLS),2AC
+325,0,3,"Sage, Mr. George John Jr",male,,8,2,CA. 2343,2445.84,New Delhi Junction (NDLS),3AC
+326,1,1,"Young, Miss. Marie Grice",female,36.0,0,0,PC 17760,5685.48,Mumbai Central (BCT),1AC
+327,0,3,"Nysveen, Mr. Johan Hansen",male,61.0,0,0,345364,1965.22,New Delhi Junction (NDLS),3AC
+328,1,2,"Ball, Mrs. (Ada E Hall)",female,36.0,0,0,28551,3495.24,New Delhi Junction (NDLS),2AC
+329,1,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,1,363291,1803.52,New Delhi Junction (NDLS),3AC
+330,1,1,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,111361,5097.28,Mumbai Central (BCT),1AC
+331,1,3,"McCoy, Miss. Agnes",female,,2,0,367226,1727.17,Chennai Central (MAS),3AC
+332,0,1,"Partner, Mr. Austen",male,45.5,0,0,113043,5709.42,New Delhi Junction (NDLS),1AC
+333,0,1,"Graham, Mr. George Edward",male,38.0,0,1,PC 17582,4817.27,New Delhi Junction (NDLS),1AC
+334,0,3,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,0,345764,1439.29,New Delhi Junction (NDLS),3AC
+335,1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,,1,0,PC 17611,4855.2,New Delhi Junction (NDLS),1AC
+336,0,3,"Denkoff, Mr. Mitto",male,,0,0,349225,1348.87,New Delhi Junction (NDLS),3AC
+337,0,1,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,5826.55,New Delhi Junction (NDLS),1AC
+338,1,1,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,16966,5644.39,Mumbai Central (BCT),1AC
+339,1,3,"Dahl, Mr. Karl Edwart",male,45.0,0,0,7598,1869.01,New Delhi Junction (NDLS),3AC
+340,0,1,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,113784,4917.4,New Delhi Junction (NDLS),1AC
+341,1,2,"Navratil, Master. Edmond Roger",male,2.0,1,1,230080,3339.1,New Delhi Junction (NDLS),2AC
+342,1,1,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,5368.17,New Delhi Junction (NDLS),1AC
+343,0,2,"Collander, Mr. Erik Gustaf",male,28.0,0,0,248740,2925.16,New Delhi Junction (NDLS),2AC
+344,0,2,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,0,244361,3264.01,New Delhi Junction (NDLS),2AC
+345,0,2,"Fox, Mr. Stanley Hubert",male,36.0,0,0,229236,3218.06,New Delhi Junction (NDLS),2AC
+346,1,2,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,0,248733,3500.61,New Delhi Junction (NDLS),2AC
+347,1,2,"Smith, Miss. Marion Elsie",female,40.0,0,0,31418,3525.62,New Delhi Junction (NDLS),2AC
+348,1,3,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,,1,0,386525,1354.36,New Delhi Junction (NDLS),3AC
+349,1,3,"Coutts, Master. William Loch ""William""",male,3.0,1,1,C.A. 37671,1749.54,New Delhi Junction (NDLS),3AC
+350,0,3,"Dimic, Mr. Jovan",male,42.0,0,0,315088,2051.03,New Delhi Junction (NDLS),3AC
+351,0,3,"Odahl, Mr. Nils Martin",male,23.0,0,0,7267,1903.76,New Delhi Junction (NDLS),3AC
+352,0,1,"Williams-Lambert, Mr. Fletcher Fellows",male,,0,0,113510,5827.79,New Delhi Junction (NDLS),1AC
+353,0,3,"Elias, Mr. Tannous",male,15.0,1,1,2695,2090.43,Mumbai Central (BCT),3AC
+354,0,3,"Arnold-Franchi, Mr. Josef",male,25.0,1,0,349237,1495.52,New Delhi Junction (NDLS),3AC
+355,0,3,"Yousif, Mr. Wazli",male,,0,0,2647,1384.68,Mumbai Central (BCT),3AC
+356,0,3,"Vanden Steen, Mr. Leo Peter",male,28.0,0,0,345783,2070.9,New Delhi Junction (NDLS),3AC
+357,1,1,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,113505,4831.81,New Delhi Junction (NDLS),1AC
+358,0,2,"Funk, Miss. Annie Clemmer",female,38.0,0,0,237671,3461.51,New Delhi Junction (NDLS),2AC
+359,1,3,"McGovern, Miss. Mary",female,,0,0,330931,2428.28,Chennai Central (MAS),3AC
+360,1,3,"Mockler, Miss. Helen Mary ""Ellie""",female,,0,0,330980,1990.57,Chennai Central (MAS),3AC
+361,0,3,"Skoog, Mr. Wilhelm",male,40.0,1,4,347088,1765.8,New Delhi Junction (NDLS),3AC
+362,0,2,"del Carlo, Mr. Sebastiano",male,29.0,1,0,SC/PARIS 2167,3536.27,Mumbai Central (BCT),2AC
+363,0,3,"Barbara, Mrs. (Catherine David)",female,45.0,0,1,2691,1849.9,Mumbai Central (BCT),3AC
+364,0,3,"Asim, Mr. Adola",male,35.0,0,0,SOTON/O.Q. 3101310,1954.74,New Delhi Junction (NDLS),3AC
+365,0,3,"O'Brien, Mr. Thomas",male,,1,0,370365,2429.76,Chennai Central (MAS),3AC
+366,0,3,"Adahl, Mr. Mauritz Nils Martin",male,30.0,0,0,C 7076,1763.32,New Delhi Junction (NDLS),3AC
+367,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,110813,5953.43,Mumbai Central (BCT),1AC
+368,1,3,"Moussa, Mrs. (Mantoura Boulos)",female,,0,0,2626,2386.42,Mumbai Central (BCT),3AC
+369,1,3,"Jermyn, Miss. Annie",female,,0,0,14313,1534.95,Chennai Central (MAS),3AC
+370,1,1,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,PC 17477,4883.23,Mumbai Central (BCT),1AC
+371,1,1,"Harder, Mr. George Achilles",male,25.0,1,0,11765,4920.93,Mumbai Central (BCT),1AC
+372,0,3,"Wiklund, Mr. Jakob Alfred",male,18.0,1,0,3101267,1321.87,New Delhi Junction (NDLS),3AC
+373,0,3,"Beavan, Mr. William Thomas",male,19.0,0,0,323951,1413.33,New Delhi Junction (NDLS),3AC
+374,0,1,"Ringhini, Mr. Sante",male,22.0,0,0,PC 17760,5619.61,Mumbai Central (BCT),1AC
+375,0,3,"Palsson, Miss. Stina Viola",female,3.0,3,1,349909,1385.43,New Delhi Junction (NDLS),3AC
+376,1,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,,1,0,PC 17604,5182.77,Mumbai Central (BCT),1AC
+377,1,3,"Landergren, Miss. Aurora Adelia",female,22.0,0,0,C 7077,2313.85,New Delhi Junction (NDLS),3AC
+378,0,1,"Widener, Mr. Harry Elkins",male,27.0,0,2,113503,4827.93,Mumbai Central (BCT),1AC
+379,0,3,"Betros, Mr. Tannous",male,20.0,0,0,2648,2277.36,Mumbai Central (BCT),3AC
+380,0,3,"Gustafsson, Mr. Karl Gideon",male,19.0,0,0,347069,1638.23,New Delhi Junction (NDLS),3AC
+381,1,1,"Bidois, Miss. Rosalie",female,42.0,0,0,PC 17757,4941.8,Mumbai Central (BCT),1AC
+382,1,3,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,2,2653,2136.08,Mumbai Central (BCT),3AC
+383,0,3,"Tikkanen, Mr. Juho",male,32.0,0,0,STON/O 2. 3101293,2054.73,New Delhi Junction (NDLS),3AC
+384,1,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,113789,5852.97,New Delhi Junction (NDLS),1AC
+385,0,3,"Plotcharsky, Mr. Vasil",male,,0,0,349227,2182.09,New Delhi Junction (NDLS),3AC
+386,0,2,"Davies, Mr. Charles Henry",male,18.0,0,0,S.O.C. 14879,3744.53,New Delhi Junction (NDLS),2AC
+387,0,3,"Goodwin, Master. Sidney Leonard",male,1.0,5,2,CA 2144,1638.44,New Delhi Junction (NDLS),3AC
+388,1,2,"Buss, Miss. Kate",female,36.0,0,0,27849,2930.67,New Delhi Junction (NDLS),2AC
+389,0,3,"Sadlier, Mr. Matthew",male,,0,0,367655,2200.74,Chennai Central (MAS),3AC
+390,1,2,"Lehmann, Miss. Bertha",female,17.0,0,0,SC 1748,3748.89,Mumbai Central (BCT),2AC
+391,1,1,"Carter, Mr. William Ernest",male,36.0,1,2,113760,5988.61,New Delhi Junction (NDLS),1AC
+392,1,3,"Jansson, Mr. Carl Olof",male,21.0,0,0,350034,1795.14,New Delhi Junction (NDLS),3AC
+393,0,3,"Gustafsson, Mr. Johan Birger",male,28.0,2,0,3101277,1746.42,New Delhi Junction (NDLS),3AC
+394,1,1,"Newell, Miss. Marjorie",female,23.0,1,0,35273,5731.7,Mumbai Central (BCT),1AC
+395,1,3,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,PP 9549,1708.96,New Delhi Junction (NDLS),3AC
+396,0,3,"Johansson, Mr. Erik",male,22.0,0,0,350052,2416.91,New Delhi Junction (NDLS),3AC
+397,0,3,"Olsson, Miss. Elina",female,31.0,0,0,350407,2330.1,New Delhi Junction (NDLS),3AC
+398,0,2,"McKane, Mr. Peter David",male,46.0,0,0,28403,3257.69,New Delhi Junction (NDLS),2AC
+399,0,2,"Pain, Dr. Alfred",male,23.0,0,0,244278,3676.13,New Delhi Junction (NDLS),2AC
+400,1,2,"Trout, Mrs. William H (Jessie L)",female,28.0,0,0,240929,3680.91,New Delhi Junction (NDLS),2AC
+401,1,3,"Niskanen, Mr. Juha",male,39.0,0,0,STON/O 2. 3101289,1423.75,New Delhi Junction (NDLS),3AC
+402,0,3,"Adams, Mr. John",male,26.0,0,0,341826,2383.06,New Delhi Junction (NDLS),3AC
+403,0,3,"Jussila, Miss. Mari Aina",female,21.0,1,0,4137,1906.3,New Delhi Junction (NDLS),3AC
+404,0,3,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1,0,STON/O2. 3101279,2291.75,New Delhi Junction (NDLS),3AC
+405,0,3,"Oreskovic, Miss. Marija",female,20.0,0,0,315096,1684.06,New Delhi Junction (NDLS),3AC
+406,0,2,"Gale, Mr. Shadrach",male,34.0,1,0,28664,3864.18,New Delhi Junction (NDLS),2AC
+407,0,3,"Widegren, Mr. Carl/Charles Peter",male,51.0,0,0,347064,1767.04,New Delhi Junction (NDLS),3AC
+408,1,2,"Richards, Master. William Rowe",male,3.0,1,1,29106,2714.09,New Delhi Junction (NDLS),2AC
+409,0,3,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0,0,312992,2386.46,New Delhi Junction (NDLS),3AC
+410,0,3,"Lefebre, Miss. Ida",female,,3,1,4133,1409.54,New Delhi Junction (NDLS),3AC
+411,0,3,"Sdycoff, Mr. Todor",male,,0,0,349222,1683.18,New Delhi Junction (NDLS),3AC
+412,0,3,"Hart, Mr. Henry",male,,0,0,394140,2440.07,Chennai Central (MAS),3AC
+413,1,1,"Minahan, Miss. Daisy E",female,33.0,1,0,19928,5940.73,Chennai Central (MAS),1AC
+414,0,2,"Cunningham, Mr. Alfred Fleming",male,,0,0,239853,3445.47,New Delhi Junction (NDLS),2AC
+415,1,3,"Sundman, Mr. Johan Julian",male,44.0,0,0,STON/O 2. 3101269,2058.2,New Delhi Junction (NDLS),3AC
+416,0,3,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,,0,0,343095,1838.13,New Delhi Junction (NDLS),3AC
+417,1,2,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,1,28220,3081.17,New Delhi Junction (NDLS),2AC
+418,1,2,"Silven, Miss. Lyyli Karoliina",female,18.0,0,2,250652,3127.26,New Delhi Junction (NDLS),2AC
+419,0,2,"Matthews, Mr. William John",male,30.0,0,0,28228,3574.27,New Delhi Junction (NDLS),2AC
+420,0,3,"Van Impe, Miss. Catharina",female,10.0,0,2,345773,2202.85,New Delhi Junction (NDLS),3AC
+421,0,3,"Gheorgheff, Mr. Stanio",male,,0,0,349254,2249.89,Mumbai Central (BCT),3AC
+422,0,3,"Charters, Mr. David",male,21.0,0,0,A/5. 13032,2247.54,Chennai Central (MAS),3AC
+423,0,3,"Zimmerman, Mr. Leo",male,29.0,0,0,315082,1409.45,New Delhi Junction (NDLS),3AC
+424,0,3,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,1,1,347080,1893.3,New Delhi Junction (NDLS),3AC
+425,0,3,"Rosblom, Mr. Viktor Richard",male,18.0,1,1,370129,1369.07,New Delhi Junction (NDLS),3AC
+426,0,3,"Wiseman, Mr. Phillippe",male,,0,0,A/4. 34244,1959.43,New Delhi Junction (NDLS),3AC
+427,1,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,2003,3273.99,New Delhi Junction (NDLS),2AC
+428,1,2,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,250655,3854.02,New Delhi Junction (NDLS),2AC
+429,0,3,"Flynn, Mr. James",male,,0,0,364851,1721.1,Chennai Central (MAS),3AC
+430,1,3,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,0,SOTON/O.Q. 392078,1440.48,New Delhi Junction (NDLS),3AC
+431,1,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,0,110564,4971.59,New Delhi Junction (NDLS),1AC
+432,1,3,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,,1,0,376564,2213.81,New Delhi Junction (NDLS),3AC
+433,1,2,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,SC/AH 3085,3503.68,New Delhi Junction (NDLS),2AC
+434,0,3,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,STON/O 2. 3101274,1421.35,New Delhi Junction (NDLS),3AC
+435,0,1,"Silvey, Mr. William Baird",male,50.0,1,0,13507,4900.93,New Delhi Junction (NDLS),1AC
+436,1,1,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,5641.16,New Delhi Junction (NDLS),1AC
+437,0,3,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,2,W./C. 6608,1387.32,New Delhi Junction (NDLS),3AC
+438,1,2,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,3,29106,3768.42,New Delhi Junction (NDLS),2AC
+439,0,1,"Fortune, Mr. Mark",male,64.0,1,4,19950,5647.49,New Delhi Junction (NDLS),1AC
+440,0,2,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,C.A. 18723,2805.75,New Delhi Junction (NDLS),2AC
+441,1,2,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,F.C.C. 13529,2810.29,New Delhi Junction (NDLS),2AC
+442,0,3,"Hampe, Mr. Leon",male,20.0,0,0,345769,2483.97,New Delhi Junction (NDLS),3AC
+443,0,3,"Petterson, Mr. Johan Emil",male,25.0,1,0,347076,1749.12,New Delhi Junction (NDLS),3AC
+444,1,2,"Reynaldo, Ms. Encarnacion",female,28.0,0,0,230434,3181.83,New Delhi Junction (NDLS),2AC
+445,1,3,"Johannesen-Bratthammer, Mr. Bernt",male,,0,0,65306,2275.36,New Delhi Junction (NDLS),3AC
+446,1,1,"Dodge, Master. Washington",male,4.0,0,2,33638,5936.7,New Delhi Junction (NDLS),1AC
+447,1,2,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,250644,3981.8,New Delhi Junction (NDLS),2AC
+448,1,1,"Seward, Mr. Frederic Kimber",male,34.0,0,0,113794,5704.05,New Delhi Junction (NDLS),1AC
+449,1,3,"Baclini, Miss. Marie Catherine",female,5.0,2,1,2666,1751.51,Mumbai Central (BCT),3AC
+450,1,1,"Peuchen, Major. Arthur Godfrey",male,52.0,0,0,113786,4900.2,New Delhi Junction (NDLS),1AC
+451,0,2,"West, Mr. Edwy Arthur",male,36.0,1,2,C.A. 34651,3710.29,New Delhi Junction (NDLS),2AC
+452,0,3,"Hagland, Mr. Ingvald Olai Olsen",male,,1,0,65303,1970.09,New Delhi Junction (NDLS),3AC
+453,0,1,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,113051,5309.07,Mumbai Central (BCT),1AC
+454,1,1,"Goldenberg, Mr. Samuel L",male,49.0,1,0,17453,5887.63,Mumbai Central (BCT),1AC
+455,0,3,"Peduzzi, Mr. Joseph",male,,0,0,A/5 2817,1433.44,New Delhi Junction (NDLS),3AC
+456,1,3,"Jalsevac, Mr. Ivan",male,29.0,0,0,349240,1891.15,Mumbai Central (BCT),3AC
+457,0,1,"Millet, Mr. Francis Davis",male,65.0,0,0,13509,4813.62,New Delhi Junction (NDLS),1AC
+458,1,1,"Kenyon, Mrs. Frederick R (Marion)",female,,1,0,17464,5362.39,New Delhi Junction (NDLS),1AC
+459,1,2,"Toomey, Miss. Ellen",female,50.0,0,0,F.C.C. 13531,2773.19,New Delhi Junction (NDLS),2AC
+460,0,3,"O'Connor, Mr. Maurice",male,,0,0,371060,1442.58,Chennai Central (MAS),3AC
+461,1,1,"Anderson, Mr. Harry",male,48.0,0,0,19952,4941.03,New Delhi Junction (NDLS),1AC
+462,0,3,"Morley, Mr. William",male,34.0,0,0,364506,2079.05,New Delhi Junction (NDLS),3AC
+463,0,1,"Gee, Mr. Arthur H",male,47.0,0,0,111320,5695.25,New Delhi Junction (NDLS),1AC
+464,0,2,"Milling, Mr. Jacob Christian",male,48.0,0,0,234360,3458.38,New Delhi Junction (NDLS),2AC
+465,0,3,"Maisner, Mr. Simon",male,,0,0,A/S 2816,2454.61,New Delhi Junction (NDLS),3AC
+466,0,3,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,0,SOTON/O.Q. 3101306,1749.84,New Delhi Junction (NDLS),3AC
+467,0,2,"Campbell, Mr. William",male,,0,0,239853,3071.43,New Delhi Junction (NDLS),2AC
+468,0,1,"Smart, Mr. John Montgomery",male,56.0,0,0,113792,5842.32,New Delhi Junction (NDLS),1AC
+469,0,3,"Scanlan, Mr. James",male,,0,0,36209,1568.32,Chennai Central (MAS),3AC
+470,1,3,"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,2455.87,Mumbai Central (BCT),3AC
+471,0,3,"Keefe, Mr. Arthur",male,,0,0,323592,1314.59,New Delhi Junction (NDLS),3AC
+472,0,3,"Cacic, Mr. Luka",male,38.0,0,0,315089,2463.85,New Delhi Junction (NDLS),3AC
+473,1,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,2,C.A. 34651,2756.11,New Delhi Junction (NDLS),2AC
+474,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,SC/AH Basle 541,3858.49,Mumbai Central (BCT),2AC
+475,0,3,"Strandberg, Miss. Ida Sofia",female,22.0,0,0,7553,1933.24,New Delhi Junction (NDLS),3AC
+476,0,1,"Clifford, Mr. George Quincy",male,,0,0,110465,5991.56,New Delhi Junction (NDLS),1AC
+477,0,2,"Renouf, Mr. Peter Henry",male,34.0,1,0,31027,2795.94,New Delhi Junction (NDLS),2AC
+478,0,3,"Braund, Mr. Lewis Richard",male,29.0,1,0,3460,1964.63,New Delhi Junction (NDLS),3AC
+479,0,3,"Karlsson, Mr. Nils August",male,22.0,0,0,350060,2463.16,New Delhi Junction (NDLS),3AC
+480,1,3,"Hirvonen, Miss. Hildur E",female,2.0,0,1,3101298,1927.72,New Delhi Junction (NDLS),3AC
+481,0,3,"Goodwin, Master. Harold Victor",male,9.0,5,2,CA 2144,2055.28,New Delhi Junction (NDLS),3AC
+482,0,2,"Frost, Mr. Anthony Wood ""Archie""",male,,0,0,239854,3604.47,New Delhi Junction (NDLS),2AC
+483,0,3,"Rouse, Mr. Richard Henry",male,50.0,0,0,A/5 3594,1845.45,New Delhi Junction (NDLS),3AC
+484,1,3,"Turkula, Mrs. (Hedwig)",female,63.0,0,0,4134,2053.07,New Delhi Junction (NDLS),3AC
+485,1,1,"Bishop, Mr. Dickinson H",male,25.0,1,0,11967,5501.18,Mumbai Central (BCT),1AC
+486,0,3,"Lefebre, Miss. Jeannie",female,,3,1,4133,2381.39,New Delhi Junction (NDLS),3AC
+487,1,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,19943,4854.54,New Delhi Junction (NDLS),1AC
+488,0,1,"Kent, Mr. Edward Austin",male,58.0,0,0,11771,5137.16,Mumbai Central (BCT),1AC
+489,0,3,"Somerton, Mr. Francis William",male,30.0,0,0,A.5. 18509,2440.49,New Delhi Junction (NDLS),3AC
+490,1,3,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,C.A. 37671,2368.32,New Delhi Junction (NDLS),3AC
+491,0,3,"Hagland, Mr. Konrad Mathias Reiersen",male,,1,0,65304,1846.79,New Delhi Junction (NDLS),3AC
+492,0,3,"Windelov, Mr. Einar",male,21.0,0,0,SOTON/OQ 3101317,2044.16,New Delhi Junction (NDLS),3AC
+493,0,1,"Molson, Mr. Harry Markland",male,55.0,0,0,113787,5132.86,New Delhi Junction (NDLS),1AC
+494,0,1,"Artagaveytia, Mr. Ramon",male,71.0,0,0,PC 17609,5025.75,Mumbai Central (BCT),1AC
+495,0,3,"Stanley, Mr. Edward Roland",male,21.0,0,0,A/4 45380,1856.44,New Delhi Junction (NDLS),3AC
+496,0,3,"Yousseff, Mr. Gerious",male,,0,0,2627,1724.02,Mumbai Central (BCT),3AC
+497,1,1,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,36947,5500.39,Mumbai Central (BCT),1AC
+498,0,3,"Shellard, Mr. Frederick William",male,,0,0,C.A. 6212,1393.28,New Delhi Junction (NDLS),3AC
+499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1,2,113781,5969.27,New Delhi Junction (NDLS),1AC
+500,0,3,"Svensson, Mr. Olof",male,24.0,0,0,350035,2483.45,New Delhi Junction (NDLS),3AC
+501,0,3,"Calic, Mr. Petar",male,17.0,0,0,315086,2137.79,New Delhi Junction (NDLS),3AC
+502,0,3,"Canavan, Miss. Mary",female,21.0,0,0,364846,1943.32,Chennai Central (MAS),3AC
+503,0,3,"O'Sullivan, Miss. Bridget Mary",female,,0,0,330909,1671.43,Chennai Central (MAS),3AC
+504,0,3,"Laitinen, Miss. Kristina Sofia",female,37.0,0,0,4135,2276.55,New Delhi Junction (NDLS),3AC
+505,1,1,"Maioni, Miss. Roberta",female,16.0,0,0,110152,5621.68,New Delhi Junction (NDLS),1AC
+506,0,1,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,0,PC 17758,4995.14,Mumbai Central (BCT),1AC
+507,1,2,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,26360,3884.21,New Delhi Junction (NDLS),2AC
+508,1,1,"Bradley, Mr. George (""George Arthur Brayton"")",male,,0,0,111427,5787.04,New Delhi Junction (NDLS),1AC
+509,0,3,"Olsen, Mr. Henry Margido",male,28.0,0,0,C 4001,2439.76,New Delhi Junction (NDLS),3AC
+510,1,3,"Lang, Mr. Fang",male,26.0,0,0,1601,2170.86,New Delhi Junction (NDLS),3AC
+511,1,3,"Daly, Mr. Eugene Patrick",male,29.0,0,0,382651,2036.1,Chennai Central (MAS),3AC
+512,0,3,"Webber, Mr. James",male,,0,0,SOTON/OQ 3101316,1801.89,New Delhi Junction (NDLS),3AC
+513,1,1,"McGough, Mr. James Robert",male,36.0,0,0,PC 17473,5919.27,New Delhi Junction (NDLS),1AC
+514,1,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,0,PC 17603,5839.28,Mumbai Central (BCT),1AC
+515,0,3,"Coleff, Mr. Satio",male,24.0,0,0,349209,1354.26,New Delhi Junction (NDLS),3AC
+516,0,1,"Walker, Mr. William Anderson",male,47.0,0,0,36967,4831.64,New Delhi Junction (NDLS),1AC
+517,1,2,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,0,C.A. 34260,3189.4,New Delhi Junction (NDLS),2AC
+518,0,3,"Ryan, Mr. Patrick",male,,0,0,371110,2272.66,Chennai Central (MAS),3AC
+519,1,2,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,0,226875,3983.46,New Delhi Junction (NDLS),2AC
+520,0,3,"Pavlovic, Mr. Stefo",male,32.0,0,0,349242,1480.5,New Delhi Junction (NDLS),3AC
+521,1,1,"Perreault, Miss. Anne",female,30.0,0,0,12749,5512.96,New Delhi Junction (NDLS),1AC
+522,0,3,"Vovk, Mr. Janko",male,22.0,0,0,349252,1757.07,New Delhi Junction (NDLS),3AC
+523,0,3,"Lahoud, Mr. Sarkis",male,,0,0,2624,2463.9,Mumbai Central (BCT),3AC
+524,1,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,111361,5810.54,Mumbai Central (BCT),1AC
+525,0,3,"Kassem, Mr. Fared",male,,0,0,2700,2305.99,Mumbai Central (BCT),3AC
+526,0,3,"Farrell, Mr. James",male,40.5,0,0,367232,1862.43,Chennai Central (MAS),3AC
+527,1,2,"Ridsdale, Miss. Lucy",female,50.0,0,0,W./C. 14258,3239.27,New Delhi Junction (NDLS),2AC
+528,0,1,"Farthing, Mr. John",male,,0,0,PC 17483,5128.09,New Delhi Junction (NDLS),1AC
+529,0,3,"Salonen, Mr. Johan Werner",male,39.0,0,0,3101296,1367.65,New Delhi Junction (NDLS),3AC
+530,0,2,"Hocking, Mr. Richard George",male,23.0,2,1,29104,3824.14,New Delhi Junction (NDLS),2AC
+531,1,2,"Quick, Miss. Phyllis May",female,2.0,1,1,26360,3756.77,New Delhi Junction (NDLS),2AC
+532,0,3,"Toufik, Mr. Nakli",male,,0,0,2641,2499.66,Mumbai Central (BCT),3AC
+533,0,3,"Elias, Mr. Joseph Jr",male,17.0,1,1,2690,2495.96,Mumbai Central (BCT),3AC
+534,1,3,"Peter, Mrs. Catherine (Catherine Rizk)",female,,0,2,2668,1966.52,Mumbai Central (BCT),3AC
+535,0,3,"Cacic, Miss. Marija",female,30.0,0,0,315084,2222.78,New Delhi Junction (NDLS),3AC
+536,1,2,"Hart, Miss. Eva Miriam",female,7.0,0,2,F.C.C. 13529,3928.2,New Delhi Junction (NDLS),2AC
+537,0,1,"Butt, Major. Archibald Willingham",male,45.0,0,0,113050,5819.58,New Delhi Junction (NDLS),1AC
+538,1,1,"LeRoy, Miss. Bertha",female,30.0,0,0,PC 17761,5096.82,Mumbai Central (BCT),1AC
+539,0,3,"Risien, Mr. Samuel Beard",male,,0,0,364498,1840.65,New Delhi Junction (NDLS),3AC
+540,1,1,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,13568,4954.99,Mumbai Central (BCT),1AC
+541,1,1,"Crosby, Miss. Harriet R",female,36.0,0,2,WE/P 5735,5944.86,New Delhi Junction (NDLS),1AC
+542,0,3,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,2,347082,2027.41,New Delhi Junction (NDLS),3AC
+543,0,3,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4,2,347082,1574.37,New Delhi Junction (NDLS),3AC
+544,1,2,"Beane, Mr. Edward",male,32.0,1,0,2908,3573.21,New Delhi Junction (NDLS),2AC
+545,0,1,"Douglas, Mr. Walter Donald",male,50.0,1,0,PC 17761,5541.75,Mumbai Central (BCT),1AC
+546,0,1,"Nicholson, Mr. Arthur Ernest",male,64.0,0,0,693,5229.8,New Delhi Junction (NDLS),1AC
+547,1,2,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,0,2908,2847.62,New Delhi Junction (NDLS),2AC
+548,1,2,"Padro y Manent, Mr. Julian",male,,0,0,SC/PARIS 2146,3573.05,Mumbai Central (BCT),2AC
+549,0,3,"Goldsmith, Mr. Frank John",male,33.0,1,1,363291,1924.37,New Delhi Junction (NDLS),3AC
+550,1,2,"Davies, Master. John Morgan Jr",male,8.0,1,1,C.A. 33112,3704.01,New Delhi Junction (NDLS),2AC
+551,1,1,"Thayer, Mr. John Borland Jr",male,17.0,0,2,17421,5424.2,Mumbai Central (BCT),1AC
+552,0,2,"Sharp, Mr. Percival James R",male,27.0,0,0,244358,3807.84,New Delhi Junction (NDLS),2AC
+553,0,3,"O'Brien, Mr. Timothy",male,,0,0,330979,1962.29,Chennai Central (MAS),3AC
+554,1,3,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,0,2620,1973.13,Mumbai Central (BCT),3AC
+555,1,3,"Ohman, Miss. Velin",female,22.0,0,0,347085,2351.98,New Delhi Junction (NDLS),3AC
+556,0,1,"Wright, Mr. George",male,62.0,0,0,113807,5284.18,New Delhi Junction (NDLS),1AC
+557,1,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,11755,4960.82,Mumbai Central (BCT),1AC
+558,0,1,"Robbins, Mr. Victor",male,,0,0,PC 17757,4834.54,Mumbai Central (BCT),1AC
+559,1,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,110413,5706.16,New Delhi Junction (NDLS),1AC
+560,1,3,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,345572,2044.37,New Delhi Junction (NDLS),3AC
+561,0,3,"Morrow, Mr. Thomas Rowan",male,,0,0,372622,2144.9,Chennai Central (MAS),3AC
+562,0,3,"Sivic, Mr. Husein",male,40.0,0,0,349251,1555.56,New Delhi Junction (NDLS),3AC
+563,0,2,"Norman, Mr. Robert Douglas",male,28.0,0,0,218629,2877.28,New Delhi Junction (NDLS),2AC
+564,0,3,"Simmons, Mr. John",male,,0,0,SOTON/OQ 392082,1317.45,New Delhi Junction (NDLS),3AC
+565,0,3,"Meanwell, Miss. (Marion Ogden)",female,,0,0,SOTON/O.Q. 392087,1720.71,New Delhi Junction (NDLS),3AC
+566,0,3,"Davies, Mr. Alfred J",male,24.0,2,0,A/4 48871,2007.9,New Delhi Junction (NDLS),3AC
+567,0,3,"Stoytcheff, Mr. Ilia",male,19.0,0,0,349205,1770.69,New Delhi Junction (NDLS),3AC
+568,0,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,0,4,349909,1824.97,New Delhi Junction (NDLS),3AC
+569,0,3,"Doharr, Mr. Tannous",male,,0,0,2686,2384.99,Mumbai Central (BCT),3AC
+570,1,3,"Jonsson, Mr. Carl",male,32.0,0,0,350417,1717.91,New Delhi Junction (NDLS),3AC
+571,1,2,"Harris, Mr. George",male,62.0,0,0,S.W./PP 752,3368.19,New Delhi Junction (NDLS),2AC
+572,1,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,11769,5740.38,New Delhi Junction (NDLS),1AC
+573,1,1,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,0,PC 17474,5275.85,New Delhi Junction (NDLS),1AC
+574,1,3,"Kelly, Miss. Mary",female,,0,0,14312,2046.5,Chennai Central (MAS),3AC
+575,0,3,"Rush, Mr. Alfred George John",male,16.0,0,0,A/4. 20589,2334.84,New Delhi Junction (NDLS),3AC
+576,0,3,"Patchett, Mr. George",male,19.0,0,0,358585,2439.42,New Delhi Junction (NDLS),3AC
+577,1,2,"Garside, Miss. Ethel",female,34.0,0,0,243880,2891.2,New Delhi Junction (NDLS),2AC
+578,1,1,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,13507,5911.91,New Delhi Junction (NDLS),1AC
+579,0,3,"Caram, Mrs. Joseph (Maria Elias)",female,,1,0,2689,1890.54,Mumbai Central (BCT),3AC
+580,1,3,"Jussila, Mr. Eiriik",male,32.0,0,0,STON/O 2. 3101286,1609.89,New Delhi Junction (NDLS),3AC
+581,1,2,"Christy, Miss. Julie Rachel",female,25.0,1,1,237789,3296.88,New Delhi Junction (NDLS),2AC
+582,1,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,17421,5976.04,Mumbai Central (BCT),1AC
+583,0,2,"Downton, Mr. William James",male,54.0,0,0,28403,3340.4,New Delhi Junction (NDLS),2AC
+584,0,1,"Ross, Mr. John Hugo",male,36.0,0,0,13049,5194.5,Mumbai Central (BCT),1AC
+585,0,3,"Paulner, Mr. Uscher",male,,0,0,3411,2060.08,Mumbai Central (BCT),3AC
+586,1,1,"Taussig, Miss. Ruth",female,18.0,0,2,110413,5088.17,New Delhi Junction (NDLS),1AC
+587,0,2,"Jarvis, Mr. John Denzil",male,47.0,0,0,237565,2798.62,New Delhi Junction (NDLS),2AC
+588,1,1,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,13567,4954.66,Mumbai Central (BCT),1AC
+589,0,3,"Gilinski, Mr. Eliezer",male,22.0,0,0,14973,1453.66,New Delhi Junction (NDLS),3AC
+590,0,3,"Murdlin, Mr. Joseph",male,,0,0,A./5. 3235,1482.28,New Delhi Junction (NDLS),3AC
+591,0,3,"Rintamaki, Mr. Matti",male,35.0,0,0,STON/O 2. 3101273,1466.59,New Delhi Junction (NDLS),3AC
+592,1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,0,36947,5569.05,Mumbai Central (BCT),1AC
+593,0,3,"Elsbury, Mr. William James",male,47.0,0,0,A/5 3902,1518.26,New Delhi Junction (NDLS),3AC
+594,0,3,"Bourke, Miss. Mary",female,,0,2,364848,1714.8,Chennai Central (MAS),3AC
+595,0,2,"Chapman, Mr. John Henry",male,37.0,1,0,SC/AH 29037,3865.82,New Delhi Junction (NDLS),2AC
+596,0,3,"Van Impe, Mr. Jean Baptiste",male,36.0,1,1,345773,1868.75,New Delhi Junction (NDLS),3AC
+597,1,2,"Leitch, Miss. Jessie Wills",female,,0,0,248727,3567.83,New Delhi Junction (NDLS),2AC
+598,0,3,"Johnson, Mr. Alfred",male,49.0,0,0,LINE,1506.78,New Delhi Junction (NDLS),3AC
+599,0,3,"Boulos, Mr. Hanna",male,,0,0,2664,1530.75,Mumbai Central (BCT),3AC
+600,1,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,PC 17485,4849.04,Mumbai Central (BCT),1AC
+601,1,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,1,243847,2919.62,New Delhi Junction (NDLS),2AC
+602,0,3,"Slabenoff, Mr. Petco",male,,0,0,349214,1634.31,New Delhi Junction (NDLS),3AC
+603,0,1,"Harrington, Mr. Charles H",male,,0,0,113796,5012.41,New Delhi Junction (NDLS),1AC
+604,0,3,"Torber, Mr. Ernst William",male,44.0,0,0,364511,1406.44,New Delhi Junction (NDLS),3AC
+605,1,1,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,0,111426,4944.76,Mumbai Central (BCT),1AC
+606,0,3,"Lindell, Mr. Edvard Bengtsson",male,36.0,1,0,349910,1852.93,New Delhi Junction (NDLS),3AC
+607,0,3,"Karaic, Mr. Milan",male,30.0,0,0,349246,1547.6,New Delhi Junction (NDLS),3AC
+608,1,1,"Daniel, Mr. Robert Williams",male,27.0,0,0,113804,5237.12,New Delhi Junction (NDLS),1AC
+609,1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,2,SC/Paris 2123,3354.44,Mumbai Central (BCT),2AC
+610,1,1,"Shutes, Miss. Elizabeth W",female,40.0,0,0,PC 17582,5628.47,New Delhi Junction (NDLS),1AC
+611,0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,1,5,347082,1347.17,New Delhi Junction (NDLS),3AC
+612,0,3,"Jardin, Mr. Jose Neto",male,,0,0,SOTON/O.Q. 3101305,2259.29,New Delhi Junction (NDLS),3AC
+613,1,3,"Murphy, Miss. Margaret Jane",female,,1,0,367230,2053.48,Chennai Central (MAS),3AC
+614,0,3,"Horgan, Mr. John",male,,0,0,370377,1398.11,Chennai Central (MAS),3AC
+615,0,3,"Brocklebank, Mr. William Alfred",male,35.0,0,0,364512,2348.29,New Delhi Junction (NDLS),3AC
+616,1,2,"Herman, Miss. Alice",female,24.0,1,2,220845,3897.13,New Delhi Junction (NDLS),2AC
+617,0,3,"Danbom, Mr. Ernst Gilbert",male,34.0,1,1,347080,1373.29,New Delhi Junction (NDLS),3AC
+618,0,3,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1,0,A/5. 3336,1632.25,New Delhi Junction (NDLS),3AC
+619,1,2,"Becker, Miss. Marion Louise",female,4.0,2,1,230136,3748.06,New Delhi Junction (NDLS),2AC
+620,0,2,"Gavey, Mr. Lawrence",male,26.0,0,0,31028,3672.74,New Delhi Junction (NDLS),2AC
+621,0,3,"Yasbeck, Mr. Antoni",male,27.0,1,0,2659,1521.43,Mumbai Central (BCT),3AC
+622,1,1,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,0,11753,5051.22,New Delhi Junction (NDLS),1AC
+623,1,3,"Nakid, Mr. Sahid",male,20.0,1,1,2653,1744.57,Mumbai Central (BCT),3AC
+624,0,3,"Hansen, Mr. Henry Damsgaard",male,21.0,0,0,350029,1881.43,New Delhi Junction (NDLS),3AC
+625,0,3,"Bowen, Mr. David John ""Dai""",male,21.0,0,0,54636,2041.91,New Delhi Junction (NDLS),3AC
+626,0,1,"Sutton, Mr. Frederick",male,61.0,0,0,36963,5242.7,New Delhi Junction (NDLS),1AC
+627,0,2,"Kirkland, Rev. Charles Leonard",male,57.0,0,0,219533,3301.3,Chennai Central (MAS),2AC
+628,1,1,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,13502,5696.97,New Delhi Junction (NDLS),1AC
+629,0,3,"Bostandyeff, Mr. Guentcho",male,26.0,0,0,349224,1344.02,New Delhi Junction (NDLS),3AC
+630,0,3,"O'Connell, Mr. Patrick D",male,,0,0,334912,1602.92,Chennai Central (MAS),3AC
+631,1,1,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,0,27042,5656.02,New Delhi Junction (NDLS),1AC
+632,0,3,"Lundahl, Mr. Johan Svensson",male,51.0,0,0,347743,2374.25,New Delhi Junction (NDLS),3AC
+633,1,1,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,13214,5414.01,Mumbai Central (BCT),1AC
+634,0,1,"Parr, Mr. William Henry Marsh",male,,0,0,112052,5438.54,New Delhi Junction (NDLS),1AC
+635,0,3,"Skoog, Miss. Mabel",female,9.0,3,2,347088,1428.61,New Delhi Junction (NDLS),3AC
+636,1,2,"Davis, Miss. Mary",female,28.0,0,0,237668,3281.64,New Delhi Junction (NDLS),2AC
+637,0,3,"Leinonen, Mr. Antti Gustaf",male,32.0,0,0,STON/O 2. 3101292,1939.14,New Delhi Junction (NDLS),3AC
+638,0,2,"Collyer, Mr. Harvey",male,31.0,1,1,C.A. 31921,3015.21,New Delhi Junction (NDLS),2AC
+639,0,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,0,5,3101295,1623.09,New Delhi Junction (NDLS),3AC
+640,0,3,"Thorneycroft, Mr. Percival",male,,1,0,376564,1752.74,New Delhi Junction (NDLS),3AC
+641,0,3,"Jensen, Mr. Hans Peder",male,20.0,0,0,350050,1324.09,New Delhi Junction (NDLS),3AC
+642,1,1,"Sagesser, Mlle. Emma",female,24.0,0,0,PC 17477,5186.49,Mumbai Central (BCT),1AC
+643,0,3,"Skoog, Miss. Margit Elizabeth",female,2.0,3,2,347088,1553.74,New Delhi Junction (NDLS),3AC
+644,1,3,"Foo, Mr. Choong",male,,0,0,1601,1693.0,New Delhi Junction (NDLS),3AC
+645,1,3,"Baclini, Miss. Eugenie",female,0.75,2,1,2666,1443.71,Mumbai Central (BCT),3AC
+646,1,1,"Harper, Mr. Henry Sleeper",male,48.0,1,0,PC 17572,5868.63,Mumbai Central (BCT),1AC
+647,0,3,"Cor, Mr. Liudevit",male,19.0,0,0,349231,2012.31,New Delhi Junction (NDLS),3AC
+648,1,1,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0,0,13213,5614.92,Mumbai Central (BCT),1AC
+649,0,3,"Willey, Mr. Edward",male,,0,0,S.O./P.P. 751,2247.01,New Delhi Junction (NDLS),3AC
+650,1,3,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,0,CA. 2314,1898.13,New Delhi Junction (NDLS),3AC
+651,0,3,"Mitkoff, Mr. Mito",male,,0,0,349221,1404.3,New Delhi Junction (NDLS),3AC
+652,1,2,"Doling, Miss. Elsie",female,18.0,0,1,231919,3398.24,New Delhi Junction (NDLS),2AC
+653,0,3,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,8475,2004.21,New Delhi Junction (NDLS),3AC
+654,1,3,"O'Leary, Miss. Hanora ""Norah""",female,,0,0,330919,2194.53,Chennai Central (MAS),3AC
+655,0,3,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,0,365226,1817.99,Chennai Central (MAS),3AC
+656,0,2,"Hickman, Mr. Leonard Mark",male,24.0,2,0,S.O.C. 14879,2865.85,New Delhi Junction (NDLS),2AC
+657,0,3,"Radeff, Mr. Alexander",male,,0,0,349223,1640.53,New Delhi Junction (NDLS),3AC
+658,0,3,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,364849,1735.7,Chennai Central (MAS),3AC
+659,0,2,"Eitemiller, Mr. George Floyd",male,23.0,0,0,29751,3539.69,New Delhi Junction (NDLS),2AC
+660,0,1,"Newell, Mr. Arthur Webster",male,58.0,0,2,35273,5484.93,Mumbai Central (BCT),1AC
+661,1,1,"Frauenthal, Dr. Henry William",male,50.0,2,0,PC 17611,5227.32,New Delhi Junction (NDLS),1AC
+662,0,3,"Badt, Mr. Mohamed",male,40.0,0,0,2623,2483.82,Mumbai Central (BCT),3AC
+663,0,1,"Colley, Mr. Edward Pomeroy",male,47.0,0,0,5727,5526.93,New Delhi Junction (NDLS),1AC
+664,0,3,"Coleff, Mr. Peju",male,36.0,0,0,349210,1584.67,New Delhi Junction (NDLS),3AC
+665,1,3,"Lindqvist, Mr. Eino William",male,20.0,1,0,STON/O 2. 3101285,1422.14,New Delhi Junction (NDLS),3AC
+666,0,2,"Hickman, Mr. Lewis",male,32.0,2,0,S.O.C. 14879,2898.72,New Delhi Junction (NDLS),2AC
+667,0,2,"Butler, Mr. Reginald Fenton",male,25.0,0,0,234686,3019.75,New Delhi Junction (NDLS),2AC
+668,0,3,"Rommetvedt, Mr. Knud Paust",male,,0,0,312993,1492.82,New Delhi Junction (NDLS),3AC
+669,0,3,"Cook, Mr. Jacob",male,43.0,0,0,A/5 3536,1523.88,New Delhi Junction (NDLS),3AC
+670,1,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,,1,0,19996,5142.11,New Delhi Junction (NDLS),1AC
+671,1,2,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,1,29750,2925.39,New Delhi Junction (NDLS),2AC
+672,0,1,"Davidson, Mr. Thornton",male,31.0,1,0,F.C. 12750,5876.12,New Delhi Junction (NDLS),1AC
+673,0,2,"Mitchell, Mr. Henry Michael",male,70.0,0,0,C.A. 24580,2804.3,New Delhi Junction (NDLS),2AC
+674,1,2,"Wilhelms, Mr. Charles",male,31.0,0,0,244270,3381.86,New Delhi Junction (NDLS),2AC
+675,0,2,"Watson, Mr. Ennis Hastings",male,,0,0,239856,3233.52,New Delhi Junction (NDLS),2AC
+676,0,3,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,0,0,349912,2478.85,New Delhi Junction (NDLS),3AC
+677,0,3,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,1434.45,New Delhi Junction (NDLS),3AC
+678,1,3,"Turja, Miss. Anna Sofia",female,18.0,0,0,4138,1777.43,New Delhi Junction (NDLS),3AC
+679,0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,6,CA 2144,2463.36,New Delhi Junction (NDLS),3AC
+680,1,1,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,5838.61,Mumbai Central (BCT),1AC
+681,0,3,"Peters, Miss. Katie",female,,0,0,330935,2280.49,Chennai Central (MAS),3AC
+682,1,1,"Hassab, Mr. Hammad",male,27.0,0,0,PC 17572,5109.48,Mumbai Central (BCT),1AC
+683,0,3,"Olsvigen, Mr. Thor Anderson",male,20.0,0,0,6563,1505.07,New Delhi Junction (NDLS),3AC
+684,0,3,"Goodwin, Mr. Charles Edward",male,14.0,5,2,CA 2144,2102.37,New Delhi Junction (NDLS),3AC
+685,0,2,"Brown, Mr. Thomas William Solomon",male,60.0,1,1,29750,3908.19,New Delhi Junction (NDLS),2AC
+686,0,2,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,SC/Paris 2123,3423.79,Mumbai Central (BCT),2AC
+687,0,3,"Panula, Mr. Jaako Arnold",male,14.0,4,1,3101295,1985.94,New Delhi Junction (NDLS),3AC
+688,0,3,"Dakic, Mr. Branko",male,19.0,0,0,349228,1635.97,New Delhi Junction (NDLS),3AC
+689,0,3,"Fischer, Mr. Eberhard Thelander",male,18.0,0,0,350036,2223.39,New Delhi Junction (NDLS),3AC
+690,1,1,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,24160,5024.45,New Delhi Junction (NDLS),1AC
+691,1,1,"Dick, Mr. Albert Adrian",male,31.0,1,0,17474,5188.42,New Delhi Junction (NDLS),1AC
+692,1,3,"Karun, Miss. Manca",female,4.0,0,1,349256,1810.52,Mumbai Central (BCT),3AC
+693,1,3,"Lam, Mr. Ali",male,,0,0,1601,1909.13,New Delhi Junction (NDLS),3AC
+694,0,3,"Saad, Mr. Khalil",male,25.0,0,0,2672,1590.89,Mumbai Central (BCT),3AC
+695,0,1,"Weir, Col. John",male,60.0,0,0,113800,4937.8,New Delhi Junction (NDLS),1AC
+696,0,2,"Chapman, Mr. Charles Henry",male,52.0,0,0,248731,3493.81,New Delhi Junction (NDLS),2AC
+697,0,3,"Kelly, Mr. James",male,44.0,0,0,363592,1646.36,New Delhi Junction (NDLS),3AC
+698,1,3,"Mullens, Miss. Katherine ""Katie""",female,,0,0,35852,1997.49,Chennai Central (MAS),3AC
+699,0,1,"Thayer, Mr. John Borland",male,49.0,1,1,17421,4985.24,Mumbai Central (BCT),1AC
+700,0,3,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,0,348121,1877.37,New Delhi Junction (NDLS),3AC
+701,1,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,PC 17757,5439.11,Mumbai Central (BCT),1AC
+702,1,1,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,PC 17475,4862.19,New Delhi Junction (NDLS),1AC
+703,0,3,"Barbara, Miss. Saiide",female,18.0,0,1,2691,1703.93,Mumbai Central (BCT),3AC
+704,0,3,"Gallagher, Mr. Martin",male,25.0,0,0,36864,1461.3,Chennai Central (MAS),3AC
+705,0,3,"Hansen, Mr. Henrik Juul",male,26.0,1,0,350025,1376.05,New Delhi Junction (NDLS),3AC
+706,0,2,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0,0,250655,3986.95,New Delhi Junction (NDLS),2AC
+707,1,2,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,0,223596,3119.06,New Delhi Junction (NDLS),2AC
+708,1,1,"Calderhead, Mr. Edward Pennington",male,42.0,0,0,PC 17476,5771.85,New Delhi Junction (NDLS),1AC
+709,1,1,"Cleaver, Miss. Alice",female,22.0,0,0,113781,5105.57,New Delhi Junction (NDLS),1AC
+710,1,3,"Moubarek, Master. Halim Gonios (""William George"")",male,,1,1,2661,2117.8,Mumbai Central (BCT),3AC
+711,1,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,PC 17482,5712.27,Mumbai Central (BCT),1AC
+712,0,1,"Klaber, Mr. Herman",male,,0,0,113028,5514.77,New Delhi Junction (NDLS),1AC
+713,1,1,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,19996,5365.89,New Delhi Junction (NDLS),1AC
+714,0,3,"Larsson, Mr. August Viktor",male,29.0,0,0,7545,1794.21,New Delhi Junction (NDLS),3AC
+715,0,2,"Greenberg, Mr. Samuel",male,52.0,0,0,250647,3153.53,New Delhi Junction (NDLS),2AC
+716,0,3,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,348124,2415.43,New Delhi Junction (NDLS),3AC
+717,1,1,"Endres, Miss. Caroline Louise",female,38.0,0,0,PC 17757,5796.74,Mumbai Central (BCT),1AC
+718,1,2,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,0,34218,3954.53,New Delhi Junction (NDLS),2AC
+719,0,3,"McEvoy, Mr. Michael",male,,0,0,36568,1449.16,Chennai Central (MAS),3AC
+720,0,3,"Johnson, Mr. Malkolm Joackim",male,33.0,0,0,347062,2177.04,New Delhi Junction (NDLS),3AC
+721,1,2,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,248727,3919.84,New Delhi Junction (NDLS),2AC
+722,0,3,"Jensen, Mr. Svend Lauritz",male,17.0,1,0,350048,1517.48,New Delhi Junction (NDLS),3AC
+723,0,2,"Gillespie, Mr. William Henry",male,34.0,0,0,12233,2786.45,New Delhi Junction (NDLS),2AC
+724,0,2,"Hodges, Mr. Henry Price",male,50.0,0,0,250643,3663.46,New Delhi Junction (NDLS),2AC
+725,1,1,"Chambers, Mr. Norman Campbell",male,27.0,1,0,113806,5489.37,New Delhi Junction (NDLS),1AC
+726,0,3,"Oreskovic, Mr. Luka",male,20.0,0,0,315094,2310.19,New Delhi Junction (NDLS),3AC
+727,1,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,0,31027,2881.7,New Delhi Junction (NDLS),2AC
+728,1,3,"Mannion, Miss. Margareth",female,,0,0,36866,2254.32,Chennai Central (MAS),3AC
+729,0,2,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,1,0,236853,2962.12,New Delhi Junction (NDLS),2AC
+730,0,3,"Ilmakangas, Miss. Pieta Sofia",female,25.0,1,0,STON/O2. 3101271,1496.39,New Delhi Junction (NDLS),3AC
+731,1,1,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,24160,4997.12,New Delhi Junction (NDLS),1AC
+732,0,3,"Hassan, Mr. Houssein G N",male,11.0,0,0,2699,2277.49,Mumbai Central (BCT),3AC
+733,0,2,"Knight, Mr. Robert J",male,,0,0,239855,3564.76,New Delhi Junction (NDLS),2AC
+734,0,2,"Berriman, Mr. William John",male,23.0,0,0,28425,3379.99,New Delhi Junction (NDLS),2AC
+735,0,2,"Troupiansky, Mr. Moses Aaron",male,23.0,0,0,233639,3166.48,New Delhi Junction (NDLS),2AC
+736,0,3,"Williams, Mr. Leslie",male,28.5,0,0,54636,2352.64,New Delhi Junction (NDLS),3AC
+737,0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,3,W./C. 6608,1770.93,New Delhi Junction (NDLS),3AC
+738,1,1,"Lesurer, Mr. Gustave J",male,35.0,0,0,PC 17755,5779.92,Mumbai Central (BCT),1AC
+739,0,3,"Ivanoff, Mr. Kanio",male,,0,0,349201,1826.96,New Delhi Junction (NDLS),3AC
+740,0,3,"Nankoff, Mr. Minko",male,,0,0,349218,1752.33,New Delhi Junction (NDLS),3AC
+741,1,1,"Hawksford, Mr. Walter James",male,,0,0,16988,5355.22,New Delhi Junction (NDLS),1AC
+742,0,1,"Cavendish, Mr. Tyrell William",male,36.0,1,0,19877,5161.65,New Delhi Junction (NDLS),1AC
+743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,5697.13,Mumbai Central (BCT),1AC
+744,0,3,"McNamee, Mr. Neal",male,24.0,1,0,376566,1903.26,New Delhi Junction (NDLS),3AC
+745,1,3,"Stranden, Mr. Juho",male,31.0,0,0,STON/O 2. 3101288,1578.66,New Delhi Junction (NDLS),3AC
+746,0,1,"Crosby, Capt. Edward Gifford",male,70.0,1,1,WE/P 5735,5879.49,New Delhi Junction (NDLS),1AC
+747,0,3,"Abbott, Mr. Rossmore Edward",male,16.0,1,1,C.A. 2673,1760.67,New Delhi Junction (NDLS),3AC
+748,1,2,"Sinkkonen, Miss. Anna",female,30.0,0,0,250648,3406.62,New Delhi Junction (NDLS),2AC
+749,0,1,"Marvin, Mr. Daniel Warner",male,19.0,1,0,113773,5887.77,New Delhi Junction (NDLS),1AC
+750,0,3,"Connaghton, Mr. Michael",male,31.0,0,0,335097,2049.09,Chennai Central (MAS),3AC
+751,1,2,"Wells, Miss. Joan",female,4.0,1,1,29103,2851.97,New Delhi Junction (NDLS),2AC
+752,1,3,"Moor, Master. Meier",male,6.0,0,1,392096,2427.8,New Delhi Junction (NDLS),3AC
+753,0,3,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,0,345780,2053.25,New Delhi Junction (NDLS),3AC
+754,0,3,"Jonkoff, Mr. Lalio",male,23.0,0,0,349204,1701.89,New Delhi Junction (NDLS),3AC
+755,1,2,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,2,220845,2881.05,New Delhi Junction (NDLS),2AC
+756,1,2,"Hamalainen, Master. Viljo",male,0.67,1,1,250649,3732.23,New Delhi Junction (NDLS),2AC
+757,0,3,"Carlsson, Mr. August Sigfrid",male,28.0,0,0,350042,2044.09,New Delhi Junction (NDLS),3AC
+758,0,2,"Bailey, Mr. Percy Andrew",male,18.0,0,0,29108,3393.5,New Delhi Junction (NDLS),2AC
+759,0,3,"Theobald, Mr. Thomas Leonard",male,34.0,0,0,363294,2372.67,New Delhi Junction (NDLS),3AC
+760,1,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,110152,5746.32,New Delhi Junction (NDLS),1AC
+761,0,3,"Garfirth, Mr. John",male,,0,0,358585,1482.01,New Delhi Junction (NDLS),3AC
+762,0,3,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0,0,SOTON/O2 3101272,1674.07,New Delhi Junction (NDLS),3AC
+763,1,3,"Barah, Mr. Hanna Assi",male,20.0,0,0,2663,1598.19,Mumbai Central (BCT),3AC
+764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,113760,5692.74,New Delhi Junction (NDLS),1AC
+765,0,3,"Eklund, Mr. Hans Linus",male,16.0,0,0,347074,1340.24,New Delhi Junction (NDLS),3AC
+766,1,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,13502,5483.87,New Delhi Junction (NDLS),1AC
+767,0,1,"Brewe, Dr. Arthur Jackson",male,,0,0,112379,5714.95,Mumbai Central (BCT),1AC
+768,0,3,"Mangan, Miss. Mary",female,30.5,0,0,364850,2352.12,Chennai Central (MAS),3AC
+769,0,3,"Moran, Mr. Daniel J",male,,1,0,371110,1710.5,Chennai Central (MAS),3AC
+770,0,3,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0,0,8471,2285.51,New Delhi Junction (NDLS),3AC
+771,0,3,"Lievens, Mr. Rene Aime",male,24.0,0,0,345781,1432.76,New Delhi Junction (NDLS),3AC
+772,0,3,"Jensen, Mr. Niels Peder",male,48.0,0,0,350047,2315.74,New Delhi Junction (NDLS),3AC
+773,0,2,"Mack, Mrs. (Mary)",female,57.0,0,0,S.O./P.P. 3,2865.74,New Delhi Junction (NDLS),2AC
+774,0,3,"Elias, Mr. Dibo",male,,0,0,2674,1776.74,Mumbai Central (BCT),3AC
+775,1,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,3,29105,3736.48,New Delhi Junction (NDLS),2AC
+776,0,3,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0,0,347078,1479.9,New Delhi Junction (NDLS),3AC
+777,0,3,"Tobin, Mr. Roger",male,,0,0,383121,1575.1,Chennai Central (MAS),3AC
+778,1,3,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,364516,2166.7,New Delhi Junction (NDLS),3AC
+779,0,3,"Kilgannon, Mr. Thomas J",male,,0,0,36865,2164.04,Chennai Central (MAS),3AC
+780,1,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,1,24160,5569.38,New Delhi Junction (NDLS),1AC
+781,1,3,"Ayoub, Miss. Banoura",female,13.0,0,0,2687,2132.74,Mumbai Central (BCT),3AC
+782,1,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,17474,5451.27,New Delhi Junction (NDLS),1AC
+783,0,1,"Long, Mr. Milton Clyde",male,29.0,0,0,113501,5102.16,New Delhi Junction (NDLS),1AC
+784,0,3,"Johnston, Mr. Andrew G",male,,1,2,W./C. 6607,1714.84,New Delhi Junction (NDLS),3AC
+785,0,3,"Ali, Mr. William",male,25.0,0,0,SOTON/O.Q. 3101312,1517.92,New Delhi Junction (NDLS),3AC
+786,0,3,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,0,374887,2390.14,New Delhi Junction (NDLS),3AC
+787,1,3,"Sjoblom, Miss. Anna Sofia",female,18.0,0,0,3101265,2000.07,New Delhi Junction (NDLS),3AC
+788,0,3,"Rice, Master. George Hugh",male,8.0,4,1,382652,1781.02,Chennai Central (MAS),3AC
+789,1,3,"Dean, Master. Bertram Vere",male,1.0,1,2,C.A. 2315,1854.41,New Delhi Junction (NDLS),3AC
+790,0,1,"Guggenheim, Mr. Benjamin",male,46.0,0,0,PC 17593,5936.74,Mumbai Central (BCT),1AC
+791,0,3,"Keane, Mr. Andrew ""Andy""",male,,0,0,12460,1484.02,Chennai Central (MAS),3AC
+792,0,2,"Gaskell, Mr. Alfred",male,16.0,0,0,239865,3462.1,New Delhi Junction (NDLS),2AC
+793,0,3,"Sage, Miss. Stella Anna",female,,8,2,CA. 2343,1907.07,New Delhi Junction (NDLS),3AC
+794,0,1,"Hoyt, Mr. William Fisher",male,,0,0,PC 17600,5533.75,Mumbai Central (BCT),1AC
+795,0,3,"Dantcheff, Mr. Ristiu",male,25.0,0,0,349203,1321.73,New Delhi Junction (NDLS),3AC
+796,0,2,"Otter, Mr. Richard",male,39.0,0,0,28213,3833.76,New Delhi Junction (NDLS),2AC
+797,1,1,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,17465,5918.54,New Delhi Junction (NDLS),1AC
+798,1,3,"Osman, Mrs. Mara",female,31.0,0,0,349244,1978.16,New Delhi Junction (NDLS),3AC
+799,0,3,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0,0,2685,2135.98,Mumbai Central (BCT),3AC
+800,0,3,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,345773,2407.0,New Delhi Junction (NDLS),3AC
+801,0,2,"Ponesell, Mr. Martin",male,34.0,0,0,250647,3619.41,New Delhi Junction (NDLS),2AC
+802,1,2,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,C.A. 31921,2898.3,New Delhi Junction (NDLS),2AC
+803,1,1,"Carter, Master. William Thornton II",male,11.0,1,2,113760,5491.55,New Delhi Junction (NDLS),1AC
+804,1,3,"Thomas, Master. Assad Alexander",male,0.42,0,1,2625,2028.06,Mumbai Central (BCT),3AC
+805,1,3,"Hedman, Mr. Oskar Arvid",male,27.0,0,0,347089,1808.96,New Delhi Junction (NDLS),3AC
+806,0,3,"Johansson, Mr. Karl Johan",male,31.0,0,0,347063,2183.73,New Delhi Junction (NDLS),3AC
+807,0,1,"Andrews, Mr. Thomas Jr",male,39.0,0,0,112050,5921.24,New Delhi Junction (NDLS),1AC
+808,0,3,"Pettersson, Miss. Ellen Natalia",female,18.0,0,0,347087,2410.68,New Delhi Junction (NDLS),3AC
+809,0,2,"Meyer, Mr. August",male,39.0,0,0,248723,3286.09,New Delhi Junction (NDLS),2AC
+810,1,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,0,113806,4935.89,New Delhi Junction (NDLS),1AC
+811,0,3,"Alexander, Mr. William",male,26.0,0,0,3474,2481.81,New Delhi Junction (NDLS),3AC
+812,0,3,"Lester, Mr. James",male,39.0,0,0,A/4 48871,2306.68,New Delhi Junction (NDLS),3AC
+813,0,2,"Slemen, Mr. Richard James",male,35.0,0,0,28206,2862.06,New Delhi Junction (NDLS),2AC
+814,0,3,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4,2,347082,2405.01,New Delhi Junction (NDLS),3AC
+815,0,3,"Tomlin, Mr. Ernest Portage",male,30.5,0,0,364499,2343.88,New Delhi Junction (NDLS),3AC
+816,0,1,"Fry, Mr. Richard",male,,0,0,112058,5422.61,New Delhi Junction (NDLS),1AC
+817,0,3,"Heininen, Miss. Wendla Maria",female,23.0,0,0,STON/O2. 3101290,2009.53,New Delhi Junction (NDLS),3AC
+818,0,2,"Mallet, Mr. Albert",male,31.0,1,1,S.C./PARIS 2079,3218.7,Mumbai Central (BCT),2AC
+819,0,3,"Holm, Mr. John Fredrik Alexander",male,43.0,0,0,C 7075,1365.71,New Delhi Junction (NDLS),3AC
+820,0,3,"Skoog, Master. Karl Thorsten",male,10.0,3,2,347088,1702.24,New Delhi Junction (NDLS),3AC
+821,1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,12749,5763.42,New Delhi Junction (NDLS),1AC
+822,1,3,"Lulic, Mr. Nikola",male,27.0,0,0,315098,1305.56,New Delhi Junction (NDLS),3AC
+823,0,1,"Reuchlin, Jonkheer. John George",male,38.0,0,0,19972,5200.2,New Delhi Junction (NDLS),1AC
+824,1,3,"Moor, Mrs. (Beila)",female,27.0,0,1,392096,1777.8,New Delhi Junction (NDLS),3AC
+825,0,3,"Panula, Master. Urho Abraham",male,2.0,4,1,3101295,1944.87,New Delhi Junction (NDLS),3AC
+826,0,3,"Flynn, Mr. John",male,,0,0,368323,2403.83,Chennai Central (MAS),3AC
+827,0,3,"Lam, Mr. Len",male,,0,0,1601,1715.62,New Delhi Junction (NDLS),3AC
+828,1,2,"Mallet, Master. Andre",male,1.0,0,2,S.C./PARIS 2079,3151.04,Mumbai Central (BCT),2AC
+829,1,3,"McCormack, Mr. Thomas Joseph",male,,0,0,367228,2185.0,Chennai Central (MAS),3AC
+830,1,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,0,113572,5342.66,,1AC
+831,1,3,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,2659,1569.53,Mumbai Central (BCT),3AC
+832,1,2,"Richards, Master. George Sibley",male,0.83,1,1,29106,3288.17,New Delhi Junction (NDLS),2AC
+833,0,3,"Saad, Mr. Amin",male,,0,0,2671,1469.03,Mumbai Central (BCT),3AC
+834,0,3,"Augustsson, Mr. Albert",male,23.0,0,0,347468,1511.66,New Delhi Junction (NDLS),3AC
+835,0,3,"Allum, Mr. Owen George",male,18.0,0,0,2223,1898.04,New Delhi Junction (NDLS),3AC
+836,1,1,"Compton, Miss. Sara Rebecca",female,39.0,1,1,PC 17756,5302.71,Mumbai Central (BCT),1AC
+837,0,3,"Pasic, Mr. Jakob",male,21.0,0,0,315097,2397.82,New Delhi Junction (NDLS),3AC
+838,0,3,"Sirota, Mr. Maurice",male,,0,0,392092,1734.87,New Delhi Junction (NDLS),3AC
+839,1,3,"Chip, Mr. Chang",male,32.0,0,0,1601,1996.71,New Delhi Junction (NDLS),3AC
+840,1,1,"Marechal, Mr. Pierre",male,,0,0,11774,5558.72,Mumbai Central (BCT),1AC
+841,0,3,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,0,SOTON/O2 3101287,1315.71,New Delhi Junction (NDLS),3AC
+842,0,2,"Mudd, Mr. Thomas Charles",male,16.0,0,0,S.O./P.P. 3,3562.6,New Delhi Junction (NDLS),2AC
+843,1,1,"Serepeca, Miss. Augusta",female,30.0,0,0,113798,5013.64,Mumbai Central (BCT),1AC
+844,0,3,"Lemberopolous, Mr. Peter L",male,34.5,0,0,2683,2453.28,Mumbai Central (BCT),3AC
+845,0,3,"Culumovic, Mr. Jeso",male,17.0,0,0,315090,1478.4,New Delhi Junction (NDLS),3AC
+846,0,3,"Abbing, Mr. Anthony",male,42.0,0,0,C.A. 5547,1797.55,New Delhi Junction (NDLS),3AC
+847,0,3,"Sage, Mr. Douglas Bullen",male,,8,2,CA. 2343,1402.42,New Delhi Junction (NDLS),3AC
+848,0,3,"Markoff, Mr. Marin",male,35.0,0,0,349213,2496.25,Mumbai Central (BCT),3AC
+849,0,2,"Harper, Rev. John",male,28.0,0,1,248727,3352.85,New Delhi Junction (NDLS),2AC
+850,1,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,,1,0,17453,5514.46,Mumbai Central (BCT),1AC
+851,0,3,"Andersson, Master. Sigvard Harald Elias",male,4.0,4,2,347082,1380.49,New Delhi Junction (NDLS),3AC
+852,0,3,"Svensson, Mr. Johan",male,74.0,0,0,347060,2199.95,New Delhi Junction (NDLS),3AC
+853,0,3,"Boulos, Miss. Nourelain",female,9.0,1,1,2678,1551.89,Mumbai Central (BCT),3AC
+854,1,1,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,5877.67,New Delhi Junction (NDLS),1AC
+855,0,2,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1,0,244252,2966.68,New Delhi Junction (NDLS),2AC
+856,1,3,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,392091,1528.83,New Delhi Junction (NDLS),3AC
+857,1,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,1,36928,4843.86,New Delhi Junction (NDLS),1AC
+858,1,1,"Daly, Mr. Peter Denis ",male,51.0,0,0,113055,5366.48,New Delhi Junction (NDLS),1AC
+859,1,3,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,3,2666,1977.81,Mumbai Central (BCT),3AC
+860,0,3,"Razi, Mr. Raihed",male,,0,0,2629,1378.85,Mumbai Central (BCT),3AC
+861,0,3,"Hansen, Mr. Claus Peter",male,41.0,2,0,350026,2230.63,New Delhi Junction (NDLS),3AC
+862,0,2,"Giles, Mr. Frederick Edward",male,21.0,1,0,28134,3289.28,New Delhi Junction (NDLS),2AC
+863,1,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,17466,5429.27,New Delhi Junction (NDLS),1AC
+864,0,3,"Sage, Miss. Dorothy Edith ""Dolly""",female,,8,2,CA. 2343,1828.92,New Delhi Junction (NDLS),3AC
+865,0,2,"Gill, Mr. John William",male,24.0,0,0,233866,3220.99,New Delhi Junction (NDLS),2AC
+866,1,2,"Bystrom, Mrs. (Karolina)",female,42.0,0,0,236852,3427.53,New Delhi Junction (NDLS),2AC
+867,1,2,"Duran y More, Miss. Asuncion",female,27.0,1,0,SC/PARIS 2149,2901.81,Mumbai Central (BCT),2AC
+868,0,1,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,PC 17590,5018.31,New Delhi Junction (NDLS),1AC
+869,0,3,"van Melkebeke, Mr. Philemon",male,,0,0,345777,2334.14,New Delhi Junction (NDLS),3AC
+870,1,3,"Johnson, Master. Harold Theodor",male,4.0,1,1,347742,2435.34,New Delhi Junction (NDLS),3AC
+871,0,3,"Balkic, Mr. Cerin",male,26.0,0,0,349248,1747.97,New Delhi Junction (NDLS),3AC
+872,1,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,11751,5124.89,New Delhi Junction (NDLS),1AC
+873,0,1,"Carlsson, Mr. Frans Olof",male,33.0,0,0,695,5572.8,New Delhi Junction (NDLS),1AC
+874,0,3,"Vander Cruyssen, Mr. Victor",male,47.0,0,0,345765,1790.48,New Delhi Junction (NDLS),3AC
+875,1,2,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,0,P/PP 3381,2733.0,Mumbai Central (BCT),2AC
+876,1,3,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,2667,1487.38,Mumbai Central (BCT),3AC
+877,0,3,"Gustafsson, Mr. Alfred Ossian",male,20.0,0,0,7534,2159.17,New Delhi Junction (NDLS),3AC
+878,0,3,"Petroff, Mr. Nedelio",male,19.0,0,0,349212,2090.71,New Delhi Junction (NDLS),3AC
+879,0,3,"Laleff, Mr. Kristo",male,,0,0,349217,1332.52,New Delhi Junction (NDLS),3AC
+880,1,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,11767,5066.37,Mumbai Central (BCT),1AC
+881,1,2,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0,1,230433,3000.4,New Delhi Junction (NDLS),2AC
+882,0,3,"Markun, Mr. Johann",male,33.0,0,0,349257,2106.27,New Delhi Junction (NDLS),3AC
+883,0,3,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,0,7552,1323.65,New Delhi Junction (NDLS),3AC
+884,0,2,"Banfield, Mr. Frederick James",male,28.0,0,0,C.A./SOTON 34068,2835.34,New Delhi Junction (NDLS),2AC
+885,0,3,"Sutehall, Mr. Henry Jr",male,25.0,0,0,SOTON/OQ 392076,2259.9,New Delhi Junction (NDLS),3AC
+886,0,3,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,382652,1514.25,Chennai Central (MAS),3AC
+887,0,2,"Montvila, Rev. Juozas",male,27.0,0,0,211536,3548.57,New Delhi Junction (NDLS),2AC
+888,1,1,"Graham, Miss. Margaret Edith",female,19.0,0,0,112053,5085.82,New Delhi Junction (NDLS),1AC
+889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",female,,1,2,W./C. 6607,1419.33,New Delhi Junction (NDLS),3AC
+890,1,1,"Behr, Mr. Karl Howell",male,26.0,0,0,111369,5091.81,Mumbai Central (BCT),1AC
+891,0,3,"Dooley, Mr. Patrick",male,32.0,0,0,370376,2166.72,Chennai Central (MAS),3AC
